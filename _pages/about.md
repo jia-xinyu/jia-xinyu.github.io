@@ -1,12 +1,12 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: A Tech Enthusiast in Racecars, Robots, and Rockets.
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
-  align: left
+  align: right
   image: jia_pic.jpg
   image_circular: false # crops the image to make it circular
   # more_info: >
@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi, I'm Xinyu Jia (贾鑫宇 in Chinese), currently pursuing a Ph.D. in Biomedical Engineering at the [Biorobotics Lab](https://cde.nus.edu.sg/bme/bioroboticslab/) within the `National University of Singapore` (NUS), under the guidance of Prof. [Haoyong Yu](https://cde.nus.edu.sg/bme/bioroboticslab/author/haoyong-yu/). My doctoral research focuses on `motion planning` and `motion control` of high-degree-of-freedom robots such as `robotic arms` and `legged robots`.
+Hi, I'm JIA Xinyu (贾鑫宇 in Chinese), currently pursuing a Ph.D. in Biomedical Engineering at the [Biorobotics Lab](https://cde.nus.edu.sg/bme/bioroboticslab/) within the National University of Singapore (NUS), under the guidance of Prof. [Haoyong Yu](https://cde.nus.edu.sg/bme/bioroboticslab/author/haoyong-yu/). My doctoral research focuses on **motion planning** and **motion control** of high-degree-of-freedom robots such as robotic arms and legged robots.
 
 Previously, I received my Bachelor's degree in Vehicle Engineering from [Jilin University](https://auto.jlu.edu.cn/EN/Home.htm), Changchun, China, in 2018. After that, I worked as a Mechanical Engineer at Shenzhen [DJI](https://www.dji.com/) Technology Co.,Ltd., China, from 2018 to 2020, where I contributed to the development of automous vehicles. 
 
