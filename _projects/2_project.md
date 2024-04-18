@@ -1,11 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Gspeed 2016
+description: FSAE suspension system; Second prize of FSC 2016
+img:
 importance: 2
-category: work
-giscus_comments: true
+category: racecar
 ---
 
 Every project has a beautiful feature showcase page.

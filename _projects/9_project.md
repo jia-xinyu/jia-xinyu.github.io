@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Gspeed 2017
-description: FASE chassis; First prize of FSC 2017
-img:
+title: Bimanual Robot
+description: Hardware and software of a 12-DoF cobot with grippers (2022)
+img: assets/img/7.jpg
 importance: 3
-category: racecar
+category: robot
+# redirect: https://unsplash.com
 ---
 
 Every project has a beautiful feature showcase page.

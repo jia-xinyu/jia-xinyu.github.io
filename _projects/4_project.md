@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: Gspeed 2018-C
+description: Technical support; National champion of FSCC 2018
 img:
-importance: 3
-category: fun
+importance: 4
+category: racecar
 ---
 
 Every project has a beautiful feature showcase page.

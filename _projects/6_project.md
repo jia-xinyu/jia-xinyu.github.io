@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
+title: DJI Projects
+description: Hardware development for autonomous driving
 img:
-importance: 4
-category: fun
+importance: 1
+category: racecar
 ---
 
 Every project has a beautiful feature showcase page.

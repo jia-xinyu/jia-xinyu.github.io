@@ -2,10 +2,10 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Let's push the limits of humanity and technology.
 nav: true
 nav_order: 1
-display_categories: [work, fun]
+display_categories: [robot, racecar, rocket]
 horizontal: false
 ---
 

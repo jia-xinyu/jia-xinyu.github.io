@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Gspeed 2017
-description: FASE chassis; First prize of FSC 2017
+title: Quadruped Manipulator
+description: Hardware and software of a 18-DoF quadruped mobile manipulator (2023)
 img:
-importance: 3
-category: racecar
+importance: 4
+category: robot
 ---
 
 Every project has a beautiful feature showcase page.

@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Gspeed 2017
-description: FASE chassis; First prize of FSC 2017
-img:
-importance: 3
-category: racecar
+title: Robotic Manipulator
+description: Hardware and software of a 6-DoF robotic arm (2022)
+img: assets/img/3.jpg
+importance: 2
+category: robot
+# giscus_comments: true
 ---
 
 Every project has a beautiful feature showcase page.

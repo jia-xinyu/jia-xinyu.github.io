@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
-importance: 3
-category: fun
+title: Gspeed 2018-E
+description: FASE CFRP monocoque chassis; First prize of FSEC 2018
+img:
+importance: 5
+category: racecar
 ---
 
 Every project has a beautiful feature showcase page.

@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Gspeed 2017
-description: FASE chassis; First prize of FSC 2017
-img:
-importance: 3
-category: racecar
+title: Franka Robot
+description: Planning and control of a 7-DoF redudant manipulator (2023-2024)
+img: assets/img/1.jpg
+importance: 5
+category: robot
+related_publications: true
 ---
 
 Every project has a beautiful feature showcase page.
