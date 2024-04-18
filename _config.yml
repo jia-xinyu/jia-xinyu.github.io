@@ -296,7 +296,7 @@ scholar:
   last_name: [Jia]
   first_name: [Xinyu]
 
-  style: ieee
+  style: apa
   locale: en
 
   source: /_bibliography/
