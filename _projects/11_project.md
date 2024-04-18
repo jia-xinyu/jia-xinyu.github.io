@@ -1,11 +1,10 @@
 ---
 layout: page
-title: Franka Robot
-description: Planning and control of a 7-DoF redudant manipulator (2023-2024)
-img: assets/img/1.jpg
+title: Quadruped Manipulator
+description: Hardware and software of a 18-DoF mobile manipulator (2023)
+img: assets/img/6.jpg
 importance: 5
 category: robot
-related_publications: true
 ---
 
 Every project has a beautiful feature showcase page.

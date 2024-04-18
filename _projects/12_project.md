@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Pendulum
-description: Hardware and software of a 18-DoF mobile manipulator (2022)
-img: assets/img/1.jpg
-importance: 2
+title: Franka Robot
+description: Planning and control algorithm of a 7-DoF redundant manipulator (2023-2024)
+img: assets/img/5.jpg
+importance: 6
 category: robot
+related_publications: true
 ---
 
 Every project has a beautiful feature showcase page.

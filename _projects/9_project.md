@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Bimanual Robot
-description: Hardware and software of a 12-DoF cobot with grippers (2022)
-img: assets/img/7.jpg
+title: Robotic Manipulator
+description: Hardware and software of a 6-DoF robotic arm (2022)
+img: assets/img/3.jpg
 importance: 3
 category: robot
-# redirect: https://unsplash.com
+# giscus_comments: true
 ---
 
 Every project has a beautiful feature showcase page.
