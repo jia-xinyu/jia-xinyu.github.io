@@ -2,7 +2,7 @@
 layout: page
 title: DJI Projects
 description: Hardware development for autonomous driving (2018-2020)
-img:
+img: assets/img/dji.jpg
 importance: 6
 category: racecar
 ---

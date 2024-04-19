@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Pendulum
-description: Hardware and software of a 18-DoF mobile manipulator (2022)
-img: assets/img/1.jpg
+title: Robotic Manipulator
+description: Hardware and software of a 6-DoF robotic arm (2022)
+img: assets/img/arm_cover.png
 importance: 2
 category: robot
+# giscus_comments: true
 ---
 
 Every project has a beautiful feature showcase page.

@@ -2,7 +2,7 @@
 layout: page
 title: Gspeed 2016
 description: FSAE suspension system; Second prize of FSC 2016
-img:
+img: assets/img/gspeed_2016.jpg
 importance: 2
 category: racecar
 ---

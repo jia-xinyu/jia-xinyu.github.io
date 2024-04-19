@@ -1,11 +1,10 @@
 ---
 layout: page
-title: Bimanual Robot
-description: Hardware and software of a 12-DoF cobot with grippers (2022)
-img: assets/img/7.jpg
+title: Quadruped Manipulator
+description: Hardware and software of a 18-DoF mobile manipulator (2023)
+img: assets/img/legged_arm_cover.png
 importance: 4
 category: robot
-# redirect: https://unsplash.com
 ---
 
 Every project has a beautiful feature showcase page.

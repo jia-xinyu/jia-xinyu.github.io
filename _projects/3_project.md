@@ -2,7 +2,7 @@
 layout: page
 title: Gspeed 2017
 description: FASE chassis; First prize of FSC 2017
-img:
+img: assets/img/gspeed_2017.jpg
 importance: 3
 category: racecar
 ---

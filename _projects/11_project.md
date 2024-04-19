@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Quadruped Manipulator
-description: Hardware and software of a 18-DoF mobile manipulator (2023)
-img: assets/img/6.jpg
+title: Pendulum
+description: Hardware and software of a 18-DoF mobile manipulator (2022)
+img: assets/img/pendulum_cover.jpg
 importance: 5
 category: robot
 ---
