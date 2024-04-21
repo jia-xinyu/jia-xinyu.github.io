@@ -100,5 +100,3 @@ You describe how you toiled, sweated, _bled_ for your project, and then... you r
 <div class="caption">
     Gspeed 2015 is on the track.
 </div>
-
-{% endraw %}
