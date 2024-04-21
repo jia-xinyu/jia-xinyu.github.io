@@ -18,7 +18,7 @@ To give your project a background in the portfolio page, just add the img tag to
         scrolling="no" frameborder="0" allowfullscreen="true">
 </iframe> -->
 
-<div class="row mt-3">
+<div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include video.liquid path="//player.bilibili.com/player.html?aid=44477551&bvid=BV1gb411a7Xz&cid=77870491&p=1" class="img-fluid rounded z-depth-1" %}
     </div>
