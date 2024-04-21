@@ -5,7 +5,7 @@ permalink: /projects/
 description: Let's push the limits of humanity and technology.
 nav: true
 nav_order: 1
-display_categories: [robot, racecar, rocket]
+display_categories: [robot, racecar]
 horizontal: false
 ---
 

@@ -2,7 +2,7 @@
 layout: page
 title: Quadruped Robot
 description: Hardware and software of a 12-DoF legged robot (2021)
-img: assets/img/legged_cover.png
+img: assets/img/legged_cover.jpg
 importance: 1
 category: robot
 related_publications: false
