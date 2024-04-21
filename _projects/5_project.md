@@ -2,7 +2,7 @@
 layout: page
 title: Gspeed 2018-C
 description: Technical support; National champion of FSCC 2018
-img: assets/img/gspeed_2018e.jpg
+img: assets/img/gspeed_2018c.jpg
 importance: 5
 category: racecar
 ---
@@ -12,6 +12,8 @@ It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+
+<iframe src="//player.bilibili.com/player.html?aid=44365333&bvid=BV1tb411h7wh&cid=77682612&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
     ---
     layout: page
