@@ -14,7 +14,7 @@ Make your photos 1/3, 2/3, or full width.
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
 <div class="row">
-    <div class="col-sm col-md mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0">
         {% include video.liquid path="//player.bilibili.com/player.html?aid=44471489&bvid=BV1gb411a7Vr&cid=77860396&p=1" class="img-fluid rounded z-depth-1" controls=true %}
     </div>
 </div>
