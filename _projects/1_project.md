@@ -13,16 +13,16 @@ Make your photos 1/3, 2/3, or full width.
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
-<iframe src="//player.bilibili.com/player.html?aid=44477551&bvid=BV1gb411a7Xz&cid=77870491&p=1"
+<!-- <iframe src="//player.bilibili.com/player.html?aid=44477551&bvid=BV1gb411a7Xz&cid=77870491&p=1"
         style="width: 992px; height: 558px; display: block; margin: 0 auto;" 
         scrolling="no" frameborder="0" allowfullscreen="true">
-</iframe>
+</iframe> -->
 
-<!-- <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row">
+    <div class="col-sm-12 mt-3 mt-md-0">
         {% include video.liquid path="//player.bilibili.com/player.html?aid=44477551&bvid=BV1gb411a7Xz&cid=77870491&p=1" class="img-fluid rounded z-depth-1" controls=true %}
     </div>
-</div> -->
+</div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
