@@ -12,7 +12,7 @@ It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
 
 <div class="row">
-    <div class="col-sm-12 mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0">
         {% include video.liquid path="//player.bilibili.com/player.html?aid=299057061&bvid=BV1eF41177RS&cid=721491334&p=1" class="img-fluid rounded z-depth-1" controls=true %}
     </div>
 </div>
@@ -26,7 +26,7 @@ Make your photos 1/3, 2/3, or full width.
     </div>
 </div>
 <div class="caption">
-    Gspeed 2018e (left) and its CFPR monocoque (right)
+    Gspeed 2018-E (left) and its CFPR monocoque (right)
 </div>
 
 
@@ -107,7 +107,7 @@ You describe how you toiled, sweated, _bled_ for your project, and then... you r
     </div>
 </div>
 <div class="caption">
-    Gspeed 2018e and its brother Gspeed 2018c
+    Gspeed 2018-E and its brother Gspeed 2018-C
 </div>
 
 
@@ -117,7 +117,7 @@ You describe how you toiled, sweated, _bled_ for your project, and then... you r
     </div>
 </div>
 <div class="caption">
-    Gspeed 2018e is on the track.
+    Gspeed 2018-E on the Zhuhai circuit.
 </div>
 
 <div class="row">
@@ -137,5 +137,5 @@ You describe how you toiled, sweated, _bled_ for your project, and then... you r
     </div>
 </div>
 <div class="caption">
-    Gspeed 2018e is on the track.
+    Gspeed 2018-E on the Zhuhai circuit.
 </div>

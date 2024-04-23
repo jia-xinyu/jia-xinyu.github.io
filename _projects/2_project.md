@@ -11,10 +11,8 @@ Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
 <div class="row">
-    <div class="col-sm-12 mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0">
         {% include video.liquid path="//player.bilibili.com/player.html?aid=44471489&bvid=BV1gb411a7Vr&cid=77860396&p=1" class="img-fluid rounded z-depth-1" controls=true %}
     </div>
 </div>
@@ -64,11 +62,11 @@ To give your project a background in the portfolio page, just add the img tag to
 </div>
 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/2016/close-up_1.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/2016/close-up_2.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -121,7 +119,7 @@ You describe how you toiled, sweated, _bled_ for your project, and then... you r
     </div>
 </div>
 <div class="caption">
-    Gspeed 2016 is on the track.
+    Gspeed 2016 on the Xiangyang circuit.
 </div>
 
 <div class="row">
@@ -133,5 +131,5 @@ You describe how you toiled, sweated, _bled_ for your project, and then... you r
     </div>
 </div>
 <div class="caption">
-    Gspeed 2016 is on the track.
+    Gspeed 2016 on the Xiangyang circuit.
 </div>

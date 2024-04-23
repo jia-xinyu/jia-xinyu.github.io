@@ -11,10 +11,8 @@ Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
 <div class="row">
-    <div class="col-sm-12 mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0">
         {% include video.liquid path="//player.bilibili.com/player.html?aid=44375937&bvid=BV1zb411h7BS&cid=77690255&p=1" class="img-fluid rounded z-depth-1" controls=true %}
     </div>
 </div>
@@ -147,7 +145,7 @@ You describe how you toiled, sweated, _bled_ for your project, and then... you r
     </div>
 </div>
 <div class="caption">
-    Gspeed 2017 is on the track.
+    Gspeed 2017 on the Xiangyang circuit.
 </div>
 
 <div class="row">
@@ -159,7 +157,7 @@ You describe how you toiled, sweated, _bled_ for your project, and then... you r
     </div>
 </div>
 <div class="caption">
-    Gspeed 2017 is on the track.
+    Gspeed 2017 on the Xiangyang circuit.
 </div>
 
 <div class="row">

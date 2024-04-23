@@ -14,10 +14,11 @@ Make your photos 1/3, 2/3, or full width.
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
 <div class="row">
-    <div class="col-sm-12 mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0">
         {% include video.liquid path="//player.bilibili.com/player.html?aid=44365333&bvid=BV1tb411h7wh&cid=77682612&p=1" class="img-fluid rounded z-depth-1" controls=true %}
     </div>
 </div>
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -28,7 +29,7 @@ To give your project a background in the portfolio page, just add the img tag to
     </div>
 </div>
 <div class="caption">
-    Gspeed 2018c
+    Gspeed 2018-C is the national champion of FSCC 2018!
 </div>
 
 
@@ -41,7 +42,7 @@ To give your project a background in the portfolio page, just add the img tag to
     </div>
 </div>
 <div class="caption">
-    Chassis (3d-spring), front suspension (left) and rear suspension (right)
+    Third-spring suspension system: front view (left) and rear view (right).
 </div>
 
 
@@ -54,7 +55,7 @@ To give your project a background in the portfolio page, just add the img tag to
     </div>
 </div>
 <div class="caption">
-    Chassis (3d-spring)
+    New braking system with ventilated discs.
 </div>
 
 
@@ -67,27 +68,24 @@ To give your project a background in the portfolio page, just add the img tag to
     </div>
 </div>
 <div class="caption">
-    Power system
+    Bench testing of our new powertrain - a KTM 690 Duke single-cylinder engine with a 300cc supercharger (formerly a Honda CBR600F four cylinder engine with a 1.65bar turbocharger). The max power is 60kW and it can maintain 82Nm torque output within a wide speed range (2500~6000r/min).
 </div>
 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2018c/test_drive.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2018c/test_wind.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2018c/test_wind.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2018c/test_driver.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Aero system
+    Wind tunnel testing (left); Driver-in-the-loop simulation (right)
 </div>
 
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
+I graduated from Gspeed in summer 2018.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -98,9 +96,11 @@ You describe how you toiled, sweated, _bled_ for your project, and then... you r
     </div>
 </div>
 <div class="caption">
-    Graduation and partners
+    Gspeed graduates in summer 2018.
 </div>
 
+
+New members were joining and becoming main force of Gspeed.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -111,7 +111,7 @@ You describe how you toiled, sweated, _bled_ for your project, and then... you r
     </div>
 </div>
 <div class="caption">
-    Suspension group members and team members in FSC 2018c
+    Suspension group members (left); Team members in FSCC 2018 (right).
 </div>
 
 
@@ -121,8 +121,9 @@ You describe how you toiled, sweated, _bled_ for your project, and then... you r
     </div>
 </div>
 <div class="caption">
-    Gspeed 2018c is on the track.
+    Gspeed 2018-C on the Xiangyang circuit.
 </div>
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -144,7 +145,7 @@ You describe how you toiled, sweated, _bled_ for your project, and then... you r
     </div>
 </div>
 <div class="caption">
-    Gspeed 2018c is on the track.
+    Gspeed 2018-C on the Xiangyang circuit.
 </div>
 
 
@@ -162,7 +163,7 @@ You describe how you toiled, sweated, _bled_ for your project, and then... you r
     </div>
 </div>
 <div class="caption">
-    Champion night.
+    National champion of FSCC 2018.
 </div>
 
 
@@ -172,5 +173,21 @@ You describe how you toiled, sweated, _bled_ for your project, and then... you r
     </div>
 </div>
 <div class="caption">
-    Future
+    Gspeed 2019-C, Gspeed 2017-C, Gspeed 2018-C (from left to right).
+</div>
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/2018c/platform_wechat.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/2018c/platform_bilibili.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/2018c/platform_weibo.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Gspped official accounts: WeChat, Bilibili, Weibo (from left to right).
 </div>

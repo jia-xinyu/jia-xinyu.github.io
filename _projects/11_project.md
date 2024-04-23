@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pendulum
+title: Pendulum Plaform
 description: Hardware and software of a 18-DoF mobile manipulator (2022)
 img: assets/img/pendulum_cover.jpg
 importance: 5
