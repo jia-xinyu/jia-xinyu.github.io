@@ -25,10 +25,10 @@ Make your photos 1/3, 2/3, or full width.
 </div>
 
 Project Members
-* Mechanical Engineers: [Shounak Bhattacharya](https://sites.google.com/view/shounakoffice/home), Xinyu Jia.
-* Electronic Engineers: Xinyu Jia, [Sumantra Sharma](https://cde.nus.edu.sg/bme/bioroboticslab/author/sumantra-sharma/), [Low Chang Hong](https://cde.nus.edu.sg/bme/bioroboticslab/author/low-chang-hong/).
-* Software Engineers: Xinyu Jia, [Sumantra Sharma](https://cde.nus.edu.sg/bme/bioroboticslab/author/sumantra-sharma/), [Low Chang Hong](https://cde.nus.edu.sg/bme/bioroboticslab/author/low-chang-hong/).
-* Algorithm Engineers: Xinyu Jia, [Hari Prasanth Palanivelu](https://cde.nus.edu.sg/bme/bioroboticslab/author/hari-prasanth-palanivelu/)
+* Mechanical Engineers: [Shounak Bhattacharya](https://sites.google.com/view/shounakoffice/home), <u>Xinyu Jia</u>.
+* Electronic Engineers: <u>Xinyu Jia</u>, [Sumantra Sharma](https://cde.nus.edu.sg/bme/bioroboticslab/author/sumantra-sharma/), [Low Chang Hong](https://cde.nus.edu.sg/bme/bioroboticslab/author/low-chang-hong/).
+* Software Engineers: <u>Xinyu Jia</u>, [Sumantra Sharma](https://cde.nus.edu.sg/bme/bioroboticslab/author/sumantra-sharma/), [Low Chang Hong](https://cde.nus.edu.sg/bme/bioroboticslab/author/low-chang-hong/).
+* Algorithm Engineers: <u>Xinyu Jia</u>, [Hari Prasanth Palanivelu](https://cde.nus.edu.sg/bme/bioroboticslab/author/hari-prasanth-palanivelu/).
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -135,7 +135,7 @@ You describe how you toiled, sweated, _bled_ for your project, and then... you r
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="assets/video/legged/trot_in.mp4" class="img-fluid rounded z-depth-1" controls=true %}
+        {% include video.liquid path="assets/video/legged/trot_in.mp4" class="img-fluid rounded z-depth-1" controls=true muted=true %}
     </div>
 </div>
 <div class="caption">
@@ -144,7 +144,7 @@ You describe how you toiled, sweated, _bled_ for your project, and then... you r
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="assets/video/legged/trot_out.mp4" class="img-fluid rounded z-depth-1" controls=true %}
+        {% include video.liquid path="assets/video/legged/trot_out.mp4" class="img-fluid rounded z-depth-1" controls=true muted=true %}
     </div>
 </div>
 <div class="caption">

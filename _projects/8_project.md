@@ -13,12 +13,12 @@ It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
 
 Project Members
-* Mechanical Design: [Terry Cavan Chan](https://cde.nus.edu.sg/bme/bioroboticslab/author/terry-cavan-chan/), Xinyu Jia.
-* Electronics / Software / Algorithms: Xinyu Jia.
+* Mechanical Design: [Terry Cavan Chan](https://cde.nus.edu.sg/bme/bioroboticslab/author/terry-cavan-chan/), <u>Xinyu Jia</u>Xinyu Jia.
+* Electronics / Software / Algorithms: <u>Xinyu Jia</u>.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/arm/arm_cover.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/arm_cover.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/arm/arm_gripper.jpg" class="img-fluid rounded z-depth-1" %}
@@ -44,7 +44,7 @@ Project Members
         {% include figure.liquid loading="eager" path="assets/img/arm/motor_2.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="assets/video/arm/motor.mp4" class="img-fluid rounded z-depth-1" controls=true %}
+        {% include video.liquid path="assets/video/arm/motor.mp4" class="img-fluid rounded z-depth-1" controls=true muted=true %}
     </div>
 </div>
 <div class="caption">
@@ -114,7 +114,7 @@ Simulation and experiments.
         {% include video.liquid path="assets/video/arm/sim_line.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true loop=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="assets/video/arm/sim_pos.wmv" class="img-fluid rounded z-depth-1" controls=true autoplay=true loop=true %}
+        {% include video.liquid path="assets/video/arm/sim_pos.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true loop=true %}
     </div>
 </div>
 <div class="caption">
@@ -124,15 +124,15 @@ Simulation and experiments.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="assets/video/arm/sim.mp4" class="img-fluid rounded z-depth-1" controls=true %}
+        {% include video.liquid path="assets/video/arm/sim.mp4" class="img-fluid rounded z-depth-1" controls=true muted=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="assets/video/arm/standup.mp4" class="img-fluid rounded z-depth-1" controls=true %}
+        {% include video.liquid path="assets/video/arm/standup.mp4" class="img-fluid rounded z-depth-1" controls=true muted=true %}
     </div>
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="assets/video/arm/cubic.mp4" class="img-fluid rounded z-depth-1" controls=true %}
+        {% include video.liquid path="assets/video/arm/cubic.mp4" class="img-fluid rounded z-depth-1" controls=true muted=true %}
     </div>
 </div>
 <div class="caption">
