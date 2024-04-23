@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Franka Emika Panda robot
-description: Planning and control algorithm of a 7-DoF redundant manipulator (2023-2024)
+description: Algorithms of a 7-DoF redundant manipulator (2023-2024)
 img: assets/img/franka-panda.jpg
 importance: 6
 category: robot

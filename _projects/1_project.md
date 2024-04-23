@@ -18,7 +18,7 @@ Make your photos 1/3, 2/3, or full width.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="//player.bilibili.com/player.html?aid=44477551&bvid=BV1gb411a7Xz&cid=77870491&p=1" class="img-fluid rounded z-depth-1" controls=true %}
+        {% include video.liquid path="//player.bilibili.com/player.html?aid=44477551&bvid=BV1gb411a7Xz&cid=77870491&p=1" class="img-fluid rounded z-depth-1" controls=true width=600px %}
     </div>
 </div>
 

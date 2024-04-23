@@ -68,7 +68,7 @@ To give your project a background in the portfolio page, just add the img tag to
     </div>
 </div>
 <div class="caption">
-    Bench testing of our new powertrain - a KTM 690 Duke single-cylinder engine with a 300cc supercharger (formerly a Honda CBR600F four cylinder engine with a 1.65bar turbocharger). The max power is 60kW and it can maintain 82Nm torque output within a wide speed range (2500~6000r/min).
+    Bench testing of our new powertrain - a KTM 690 Duke single-cylinder engine with a 300cc supercharger (formerly a Honda CBR600F four-cylinder engine with a 1.65bar turbocharger). The max power is 60kW and it can maintain 82Nm torque output within a wide speed range (2500~6000r/min).
 </div>
 
 
@@ -173,7 +173,7 @@ New members were joining and becoming main force of Gspeed.
     </div>
 </div>
 <div class="caption">
-    Gspeed 2019-C, Gspeed 2017-C, Gspeed 2018-C (from left to right).
+    Gspeed 2019-C, 2017-C, 2018-C (from left to right).
 </div>
 
 
