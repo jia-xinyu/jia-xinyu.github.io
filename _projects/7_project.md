@@ -24,7 +24,7 @@ Make your photos 1/3, 2/3, or full width.
     Quadruped Robot.
 </div>
 
-Project Members
+## Project Members
 * Mechanical Engineers: [Shounak Bhattacharya](https://sites.google.com/view/shounakoffice/home), <u>Xinyu Jia</u>.
 * Electronic Engineers: <u>Xinyu Jia</u>, [Sumantra Sharma](https://cde.nus.edu.sg/bme/bioroboticslab/author/sumantra-sharma/), [Low Chang Hong](https://cde.nus.edu.sg/bme/bioroboticslab/author/low-chang-hong/).
 * Software Engineers: <u>Xinyu Jia</u>, [Sumantra Sharma](https://cde.nus.edu.sg/bme/bioroboticslab/author/sumantra-sharma/), [Low Chang Hong](https://cde.nus.edu.sg/bme/bioroboticslab/author/low-chang-hong/).
