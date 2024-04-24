@@ -59,6 +59,21 @@ Make your photos 1/3, 2/3, or full width.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/legged/elec_1.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/legged/elec_2.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/legged/plate_2.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Electronic devices and wiring.
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/legged/ele.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
@@ -80,10 +95,10 @@ Make your photos 1/3, 2/3, or full width.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="assets/video/legged/balanced_stand.mp4" class="img-fluid rounded z-depth-1" controls=true %}
+        {% include video.liquid path="assets/video/legged/balanced_stand.mp4" class="img-fluid rounded z-depth-1" controls=true muted=true autoplay=true loop=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="assets/video/legged/trot_sim_all.mp4" class="img-fluid rounded z-depth-1" controls=true %}
+        {% include video.liquid path="assets/video/legged/trot_sim_all.mp4" class="img-fluid rounded z-depth-1" controls=true muted=true autoplay=true loop=true %}
     </div>
 </div>
 <div class="caption">
@@ -106,21 +121,6 @@ You describe how you toiled, sweated, _bled_ for your project, and then... you r
     Single leg test.
 </div>
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/legged/elec_1.jpg" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/legged/elec_2.jpg" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/legged/plate_2.jpg" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Electronic devices and wiring.
-</div>
-
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/legged/close_1.jpg" class="img-fluid rounded z-depth-1" %}
@@ -135,7 +135,7 @@ You describe how you toiled, sweated, _bled_ for your project, and then... you r
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="assets/video/legged/trot_in.mp4" class="img-fluid rounded z-depth-1" controls=true muted=true %}
+        {% include video.liquid path="assets/video/legged/trot_in.mp4" class="img-fluid rounded z-depth-1" controls=true muted=true autoplay=true loop=true %}
     </div>
 </div>
 <div class="caption">
@@ -144,7 +144,7 @@ You describe how you toiled, sweated, _bled_ for your project, and then... you r
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="assets/video/legged/trot_out.mp4" class="img-fluid rounded z-depth-1" controls=true muted=true %}
+        {% include video.liquid path="assets/video/legged/trot_out.mp4" class="img-fluid rounded z-depth-1" controls=true muted=true autoplay=true loop=true %}
     </div>
 </div>
 <div class="caption">

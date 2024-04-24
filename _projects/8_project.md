@@ -13,7 +13,7 @@ It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
 
 ## Project Members
-* Mechanics: [Terry Cavan Chan](https://cde.nus.edu.sg/bme/bioroboticslab/author/terry-cavan-chan/), <u>Xinyu Jia</u>.
+* Mechanics: [Terry Cavan Chan](https://cde.nus.edu.sg/bme/bioroboticslab/author/terry-cavan-chan/), <u>Xinyu Jia</u>, [Haotian Guo](https://cde.nus.edu.sg/bme/bioroboticslab/author/guo-haotian/).
 * Electronics: <u>Xinyu Jia</u>, [Low Chang Hong](https://cde.nus.edu.sg/bme/bioroboticslab/author/low-chang-hong/).
 * Software & Algorithm: <u>Xinyu Jia</u>.
 
@@ -133,7 +133,7 @@ Simulation and experiments.
         {% include video.liquid path="assets/video/arm/sim_line.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true loop=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="assets/video/arm/sim_pos.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true loop=true %}
+        {% include video.liquid path="assets/video/arm/pos.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true loop=true %}
     </div>
 </div>
 <div class="caption">
@@ -143,15 +143,15 @@ Simulation and experiments.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="assets/video/arm/sim.mp4" class="img-fluid rounded z-depth-1" controls=true muted=true %}
+        {% include video.liquid path="assets/video/arm/sim.mp4" class="img-fluid rounded z-depth-1" controls=true muted=true autoplay=true loop=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="assets/video/arm/standup.mp4" class="img-fluid rounded z-depth-1" controls=true muted=true %}
+        {% include video.liquid path="assets/video/arm/standup.mp4" class="img-fluid rounded z-depth-1" controls=true muted=true autoplay=true loop=true %}
     </div>
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="assets/video/arm/cubic.mp4" class="img-fluid rounded z-depth-1" controls=true muted=true %}
+        {% include video.liquid path="assets/video/arm/cubic.mp4" class="img-fluid rounded z-depth-1" controls=true muted=true autoplay=true loop=true %}
     </div>
 </div>
 <div class="caption">

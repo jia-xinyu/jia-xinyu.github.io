@@ -43,13 +43,13 @@ Make your photos 1/3, 2/3, or full width.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="assets/video/motor/5015_sin.mp4" class="img-fluid rounded z-depth-1" controls=true muted=true %}
+        {% include video.liquid path="assets/video/motor/5015_sin.mp4" class="img-fluid rounded z-depth-1" controls=true muted=true autoplay=true loop=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="assets/video/motor/5015_5kg_slow.mp4" class="img-fluid rounded z-depth-1" controls=true muted=true %}
+        {% include video.liquid path="assets/video/motor/5015_5kg_slow.mp4" class="img-fluid rounded z-depth-1" controls=true muted=true autoplay=true loop=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="assets/video/motor/5015_gravity_5kg.mp4" class="img-fluid rounded z-depth-1" controls=true muted=true %}
+        {% include video.liquid path="assets/video/motor/5015_gravity_5kg.mp4" class="img-fluid rounded z-depth-1" controls=true muted=true autoplay=true loop=true %}
     </div>
 </div>
 <div class="caption">
@@ -71,7 +71,7 @@ Step.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="assets/video/motor/USDE_step.mp4" class="img-fluid rounded z-depth-1" controls=true muted=true %}
+        {% include video.liquid path="assets/video/motor/USDE_step.mp4" class="img-fluid rounded z-depth-1" controls=true muted=true autoplay=true loop=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/motor/PD_step.jpg" class="img-fluid rounded z-depth-1" %}
@@ -89,7 +89,7 @@ Sine.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="assets/video/motor/USDE_sin.mp4" class="img-fluid rounded z-depth-1" controls=true muted=true %}
+        {% include video.liquid path="assets/video/motor/USDE_sin.mp4" class="img-fluid rounded z-depth-1" controls=true muted=true autoplay=true loop=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/motor/PD_sin.jpg" class="img-fluid rounded z-depth-1" %}

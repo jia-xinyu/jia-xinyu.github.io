@@ -13,7 +13,7 @@ It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
 
 ## Project Members
-* Mechanics: [Terry Cavan Chan](https://cde.nus.edu.sg/bme/bioroboticslab/author/terry-cavan-chan/), <u>Xinyu Jia</u>.
+* Mechanics: [Terry Cavan Chan](https://cde.nus.edu.sg/bme/bioroboticslab/author/terry-cavan-chan/), <u>Xinyu Jia</u>, [Haotian Guo](https://cde.nus.edu.sg/bme/bioroboticslab/author/guo-haotian/).
 * Electronics / Software / Algorithm: <u>Xinyu Jia</u>.
 
 <div class="row">
@@ -21,7 +21,7 @@ Make your photos 1/3, 2/3, or full width.
         {% include figure.liquid loading="eager" path="assets/img/bimanual_cover.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/dual/flex.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/dual/kungfu.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -50,10 +50,10 @@ Simulation and experiments.
 
 <div class="row">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include video.liquid path="assets/video/dual/joint_space.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true loop=true muted=true %}
+        {% include video.liquid path="assets/video/dual/sim.mp4" class="img-fluid rounded z-depth-1" controls=true muted=true autoplay=true loop=true %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include video.liquid path="assets/video/dual/parallel_1.mp4" class="img-fluid rounded z-depth-1" controls=true muted=true %}
+        {% include video.liquid path="assets/video/dual/parallel_1.mp4" class="img-fluid rounded z-depth-1" controls=true muted=true autoplay=true loop=true %}
     </div>
 </div>
 <div class="caption">
