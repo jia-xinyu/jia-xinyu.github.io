@@ -17,7 +17,7 @@ Make your photos 1/3, 2/3, or full width.
         {% include figure.liquid loading="eager" path="assets/img/legged_cover.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/legged/close_1.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/legged/legged_me.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -121,11 +121,11 @@ You describe how you toiled, sweated, _bled_ for your project, and then... you r
     Single leg test.
 </div>
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/legged/close_1.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/legged/close_2.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>

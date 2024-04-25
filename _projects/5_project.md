@@ -53,6 +53,9 @@ To give your project a background in the portfolio page, just add the img tag to
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/2018c/brake_2.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/2018c/brake_3.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
 <div class="caption">
     New braking system with ventilated discs.
@@ -151,7 +154,15 @@ New members were joining and becoming main force of Gspeed.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2018c/night.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2018c/night.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/2018c/people_1.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/2018c/people_2.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="row">

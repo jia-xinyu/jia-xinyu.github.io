@@ -19,6 +19,9 @@ Make your photos 1/3, 2/3, or full width.
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/legged_arm_cover.png" class="img-fluid rounded z-depth-1" %}
     </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/legged_arm_me.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
 <div class="caption">
     Quadruped mobile manipulator.
@@ -38,31 +41,17 @@ Make your photos 1/3, 2/3, or full width.
 </div>
 
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/legged_arm/frame.png" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/legged_arm/leg_2.png" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Mechanical Design.
-</div>
-
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/legged_arm/joint.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/legged_arm/frame.png" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/legged_arm/joint.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/legged_arm/leg.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
     Mechanical Design.
 </div>
-
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -79,21 +68,67 @@ Make your photos 1/3, 2/3, or full width.
     </div>
 </div>
 <div class="caption">
-    PCB board.
+    Simulation.
 </div>
 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/legged_arm/ele.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/legged_arm/joint_1.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/legged_arm/ele.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/legged_arm/joint_2.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Mechanical Design.
+</div>
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/legged_arm/ele_1.png" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/legged_arm/ele.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/legged_arm/ele_2.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Electronics layout.
+</div>
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/legged_arm/elec_1.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/legged_arm/elec_2.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/legged_arm/elec_3.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
     Electronics.
+</div>
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/legged_arm/robot_1.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Robot.
+</div>
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/legged_arm/all.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Family.
 </div>
