@@ -18,7 +18,7 @@ Make your photos 1/3, 2/3, or full width.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="https://player.bilibili.com/player.html?aid=44477551&bvid=BV1gb411a7Xz&cid=77870491&p=1&high_quality=1" class="img-fluid rounded z-depth-1" controls=true width="100%" height="500px" %}
+        {% include video.liquid path="//player.bilibili.com/player.html?aid=44477551&bvid=BV1gb411a7Xz&cid=77870491&p=1" class="img-fluid rounded z-depth-1" controls=true %}
     </div>
 </div>
 
@@ -35,14 +35,14 @@ Make your photos 1/3, 2/3, or full width.
 </div>
 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row" style="display: flex;">
+    <div class="col-sm mt-3 mt-md-0" style="flex: 1;">
         {% include figure.liquid loading="eager" path="assets/img/2015/upright_1.png" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0" style="flex: 1;">
         {% include figure.liquid loading="eager" path="assets/img/2015/upright_equivalent_stress.png" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0" style="flex: 1;">
         {% include figure.liquid loading="eager" path="assets/img/2015/upright_total_deformation.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>

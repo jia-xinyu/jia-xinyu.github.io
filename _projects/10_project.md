@@ -20,7 +20,7 @@ Make your photos 1/3, 2/3, or full width.
         {% include figure.liquid loading="eager" path="assets/img/legged_arm_cover.png" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/legged_arm_me.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/legged_arm/legged_arm_me.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

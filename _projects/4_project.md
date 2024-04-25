@@ -19,7 +19,7 @@ Make your photos 1/3, 2/3, or full width.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/gspeed_2018e.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2018e/gspeed_2018e.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/2018e/monocoque.jpg" class="img-fluid rounded z-depth-1" %}
@@ -30,14 +30,14 @@ Make your photos 1/3, 2/3, or full width.
 </div>
 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row" style="display: flex;">
+    <div class="col-sm mt-3 mt-md-0" style="flex: 1;">
         {% include figure.liquid loading="eager" path="assets/img/2018e/frame_1.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0" style="flex: 1;">
         {% include figure.liquid loading="eager" path="assets/img/2018e/frame_2.png" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0" style="flex: 1;">
         {% include figure.liquid loading="eager" path="assets/img/2018e/frame_4.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -46,14 +46,14 @@ Make your photos 1/3, 2/3, or full width.
 </div>
 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row" style="display: flex;">
+    <div class="col-sm mt-3 mt-md-0" style="flex: 1;">
         {% include figure.liquid loading="eager" path="assets/img/2018e/new_1.png" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0" style="flex: 1;">
         {% include figure.liquid loading="eager" path="assets/img/2018e/new_2.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0" style="flex: 1;">
         {% include figure.liquid loading="eager" path="assets/img/2018e/new_3.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -62,14 +62,14 @@ Make your photos 1/3, 2/3, or full width.
 </div>
 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row" style="display: flex;">
+    <div class="col-sm mt-3 mt-md-0" style="flex: 1;">
         {% include figure.liquid loading="eager" path="assets/img/2018e/make_1.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0" style="flex: 1;">
         {% include figure.liquid loading="eager" path="assets/img/2018e/make_2.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0" style="flex: 1;">
         {% include figure.liquid loading="eager" path="assets/img/2018e/make_3.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -82,14 +82,14 @@ Say you wanted to write a little bit about your project before you posted the re
 You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row" style="display: flex;">
+    <div class="col-sm mt-3 mt-md-0" style="flex: 1;">
         {% include figure.liquid loading="eager" path="assets/img/2018e/real.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0" style="flex: 1;">
         {% include figure.liquid loading="eager" path="assets/img/2018e/real_1.jpg" title="Jianyuan Liu" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0" style="flex: 1;">
         {% include figure.liquid loading="eager" path="assets/img/2018e/real_2.jpg" title="Jiaqi Liu" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>

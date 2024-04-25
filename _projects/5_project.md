@@ -22,7 +22,7 @@ To give your project a background in the portfolio page, just add the img tag to
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/gspeed_2018c.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2018c/gspeed_2018c.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include video.liquid path="assets/video/gspeed_2018.mp4" class="img-fluid rounded z-depth-1" controls=true %}
@@ -62,11 +62,11 @@ To give your project a background in the portfolio page, just add the img tag to
 </div>
 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row" style="display: flex;">
+    <div class="col-sm mt-3 mt-md-0" style="flex: 1;">
         {% include figure.liquid loading="eager" path="assets/img/2018c/power_1.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0" style="flex: 1;">
         {% include figure.liquid loading="eager" path="assets/img/2018c/power_2.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -105,11 +105,11 @@ I graduated from Gspeed in summer 2018.
 
 New members were joining and becoming main force of Gspeed.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row" style="display: flex;">
+    <div class="col-sm mt-3 mt-md-0" style="flex: 1;">
         {% include figure.liquid loading="eager" path="assets/img/2018c/group_1.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0" style="flex: 1;">
         {% include figure.liquid loading="eager" path="assets/img/2018c/group_2.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -154,7 +154,7 @@ New members were joining and becoming main force of Gspeed.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2018c/night.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2018c/night.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="row">
