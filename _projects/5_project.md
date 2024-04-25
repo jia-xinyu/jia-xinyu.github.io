@@ -62,11 +62,11 @@ To give your project a background in the portfolio page, just add the img tag to
 </div>
 
 
-<div class="row" style="display: flex;">
-    <div class="col-sm mt-3 mt-md-0" style="flex: 1;">
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/2018c/power_1.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0" style="flex: 1;">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/2018c/power_2.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -105,11 +105,11 @@ I graduated from Gspeed in summer 2018.
 
 New members were joining and becoming main force of Gspeed.
 
-<div class="row" style="display: flex;">
-    <div class="col-sm mt-3 mt-md-0" style="flex: 1;">
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/2018c/group_1.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0" style="flex: 1;">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/2018c/group_2.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>

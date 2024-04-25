@@ -31,14 +31,14 @@ Make your photos 1/3, 2/3, or full width.
 * Algorithm Engineers: <u>Xinyu Jia</u>, [Hari Prasanth Palanivelu](https://cde.nus.edu.sg/bme/bioroboticslab/author/hari-prasanth-palanivelu/).
 
 
-<div class="row" style="display: flex;">
-    <div class="col-sm mt-3 mt-md-0" style="flex: 1;">
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/legged/leg_2.png" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0" style="flex: 1;">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/legged/leg_3.png" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0" style="flex: 1;">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/legged/body_2.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
