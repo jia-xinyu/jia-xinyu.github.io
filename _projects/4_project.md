@@ -84,7 +84,7 @@ You describe how you toiled, sweated, _bled_ for your project, and then... you r
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2018e/real.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2018e/team.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/2018e/real_1.jpg" title="Jianyuan Liu" class="img-fluid rounded z-depth-1" %}
@@ -94,7 +94,7 @@ You describe how you toiled, sweated, _bled_ for your project, and then... you r
     </div>
 </div>
 <div class="caption">
-    Team
+    Team.
 </div>
 
 
