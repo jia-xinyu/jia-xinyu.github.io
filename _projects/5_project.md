@@ -180,7 +180,7 @@ New members were joining and becoming main force of Gspeed.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/2018c/future.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2018c/future.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
