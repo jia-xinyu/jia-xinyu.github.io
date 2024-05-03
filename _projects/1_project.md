@@ -7,9 +7,9 @@ importance: 1
 category: racecar
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+I was admitted to Jilin Univeristy on Sep 1st 2014, majoring in Vehicle Engineering (Top 3 in China).
+
+On **Dec 14 2014**, I received an offer from the [Gspeed Formula Racing Team](https://baike.baidu.com/item/吉林大学吉速方程式车队/23156065) (Gspeed) and became a memeber of suspension group. From this moment, I was inseparable from extreme sports and mechatrioncs.
 
 <!-- <iframe src="//player.bilibili.com/player.html?aid=44477551&bvid=BV1gb411a7Xz&cid=77870491&p=1"
         style="width: 992px; height: 558px; display: block; margin: 0 auto;" 
@@ -22,6 +22,8 @@ Make your photos 1/3, 2/3, or full width.
     </div>
 </div>
 
+In the 2015 season, I was responsible for the **mechanical design of suspension uprights**. The upright (made of 7075-T6) is the largest aluminium component on the Gspeed 2015. It connects the wheel hub, whisbone, brake caliper and steering arm to the vehicle, so these components transmit great forces to it (1.5g longitudinal deceleration; 2g lateral acceleration). Reliability, strength and light weight are goals we strive for and need to be trade-off during the design process.
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/gspeed_2015.jpg" class="img-fluid rounded z-depth-1" %}
@@ -31,9 +33,10 @@ Make your photos 1/3, 2/3, or full width.
     </div>
 </div>
 <div class="caption">
-    Gspeed 2015 (left) and its upright components (right)
+    Gspeed 2015 (left) and its uprights (right).
 </div>
 
+We designed the 3D structure in CATIA software, and then optimized its shape based on the finite element method (FEM) in ANSYS software. Through continuous optimization, the upright only weighs **297 grams** and can withstand heavy loads!
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -47,13 +50,10 @@ Make your photos 1/3, 2/3, or full width.
     </div>
 </div>
 <div class="caption">
-    Design and optimization of the upright structure. 3D design, equivalent stress, total deformation.
+    Design and optimization of the upright. From left to right, they are the 3D structure, equivalent stress (simulation), and total deformation (simulation).
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
+This year, I also learned how to collaborate with others and saw how a team of over 100 people operates efficiently.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -61,7 +61,7 @@ You describe how you toiled, sweated, _bled_ for your project, and then... you r
     </div>
 </div>
 <div class="caption">
-    All team members
+    All team members in the 2015 season.
 </div>
 
 <div class="row">
@@ -73,9 +73,10 @@ You describe how you toiled, sweated, _bled_ for your project, and then... you r
     </div>
 </div>
 <div class="caption">
-    Suspension group members and team members in FSC 2015
+    Suspension group (left). Team members on behalf of Jilin Univeristy pariciapting in FSC 2015 (right).
 </div>
 
+In Oct 2015, the Gspeed race car was shipped to Xiangyang circuit for [Formula Student China](http://www.formulastudent.com.cn/) (FSC) 2015, where there were 67 domestic universities to pariciapte in. We finally won the **11th place (2nd prize)**, and especially won the **2nd place in Engineering Design**.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
