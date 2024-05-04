@@ -10,7 +10,6 @@ category: racecar
 I was admitted to Jilin Univeristy on Sep 1st 2014, majoring in Vehicle Engineering (top 3 in China).
 
 On **Dec 14th 2014**, I received an offer from the [Gspeed Formula Racing Team](https://baike.baidu.com/item/吉林大学吉速方程式车队/23156065) (Gspeed) and became a memeber of suspension group. From this moment, I was inseparable from extreme sports and mechatronics.
-The video below will give you an initial impression of Gspeed 2015.
 
 <!-- <iframe src="//player.bilibili.com/player.html?aid=44477551&bvid=BV1gb411a7Xz&cid=77870491&p=1"
         style="width: 992px; height: 558px; display: block; margin: 0 auto;" 
@@ -22,11 +21,8 @@ The video below will give you an initial impression of Gspeed 2015.
         {% include video.liquid path="//player.bilibili.com/player.html?aid=44477551&bvid=BV1gb411a7Xz&cid=77870491&p=1" class="img-fluid rounded z-depth-1" controls=true %}
     </div>
 </div>
-<div class="caption">
-    Gspeed 2015.
-</div>
 
-In the 2015 season, I was responsible for the **mechanical design of suspension uprights**. The upright (made of 7075-T6) is the largest aluminium component on the Gspeed 2015. It connects the wheel hub, whisbone, brake caliper and steering arm to the vehicle, so these components transmit great forces to it (1.5g longitudinal deceleration; 2g lateral acceleration). Reliability, strength and light weight are goals we strive for and need to be trade-off during the design process.
+In the 2015 season, I was responsible for the **mechanical design of suspension uprights**. The upright (made of 7075-T6) is the largest aluminium component on Gspeed 2015. It connects the wheel hub, whisbone, brake caliper and steering arm to the vehicle, so these components transmit great forces to it (1.5g longitudinal deceleration; 2g lateral acceleration). Reliability, strength and light weight are goals we strive for and need to be trade-off during the design process.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

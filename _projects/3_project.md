@@ -7,18 +7,13 @@ importance: 3
 category: racecar
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include video.liquid path="//player.bilibili.com/player.html?aid=44375937&bvid=BV1zb411h7BS&cid=77690255&p=1" class="img-fluid rounded z-depth-1" controls=true %}
     </div>
 </div>
-<div class="caption">
-    Gspeed 2017.
-</div>
+
+In 2017, I served as the technical lead of the [Gspeed Formula Racing Team](https://baike.baidu.com/item/吉林大学吉速方程式车队/23156065) (Gspeed). Meanwhile, I was responsible for developing the entire chassis of Gspeed 2017, including suspension, steering, braking and transmission systems.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -29,9 +24,8 @@ Make your photos 1/3, 2/3, or full width.
     </div>
 </div>
 <div class="caption">
-    Gspeed 2017 (left) and its chassis (right)
+    Gspeed 2017 (left) and its chassis (right).
 </div>
-
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -45,8 +39,10 @@ Make your photos 1/3, 2/3, or full width.
     </div>
 </div>
 <div class="caption">
-    Power, aerodynamics and human systems
+    Powertrain, aerodynamics and cockpit.
 </div>
+
+Inspired by Formula One (F1), we introduced the [3rd-spring](https://optimumg.com/tech-tip-springs-dampers-part-three/) technology in Gspeed 2017. It can decouple the chassis's longitudinal and lateral movements, improving the handling stability in the two directions, which was validated in Adams/Car simulations.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -57,8 +53,10 @@ Make your photos 1/3, 2/3, or full width.
     </div>
 </div>
 <div class="caption">
-    Suspension simulation.
+    Simulations of the 3rd-spring chassis: bounce, roll, steering ratio, etc.
 </div>
+
+The maneuver of the full vehicle under transient and steady conditions was studied too. The virtual prototype was verified in some standard experiments, such as the [skidpad](https://en.wikipedia.org/wiki/Skidpad), and was also "driven" on the 1:1 Xiangyang circuit!
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -69,9 +67,10 @@ Make your photos 1/3, 2/3, or full width.
     </div>
 </div>
 <div class="caption">
-    Whole car simulation.
+    Full vehicle simulation in Adams/Car.
 </div>
 
+In addition to rich simulations, we invested much effort in real hardware experiments and obtained a lot of valuable data.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -85,9 +84,8 @@ Make your photos 1/3, 2/3, or full width.
     </div>
 </div>
 <div class="caption">
-    Test components (damper, tyre, spring, wheel) in suspension system
+    Component experiments on dampers, tires, springs, and wheel hubs.
 </div>
-
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -101,9 +99,10 @@ Make your photos 1/3, 2/3, or full width.
     </div>
 </div>
 <div class="caption">
-    Test subsystems (KC, power, aero)
+    System-level experiments: K&C testing, powertrain bench testing, and wind tunnel testing.
 </div>
 
+The completed Gspeed 2017 looks so aggressive and exquisite!
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -111,7 +110,7 @@ Make your photos 1/3, 2/3, or full width.
     </div>
 </div>
 <div class="caption">
-    Gspeed 2017
+    Gspeed 2017.
 </div>
 
 <div class="row">
@@ -123,13 +122,10 @@ Make your photos 1/3, 2/3, or full width.
     </div>
 </div>
 <div class="caption">
-    Gspeed 2017
+    Gspeed 2017 in the campus.
 </div>
 
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+In 2017, I witnessed the growth of an excellent R&D team (approximately **100 people**) and proudly worked with every member.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -137,7 +133,7 @@ You describe how you toiled, sweated, _bled_ for your project, and then... you r
     </div>
 </div>
 <div class="caption">
-    Team members in FSC 2017 and FSEC 2017
+    A group photo with our brother team Gspeed-E in FSC 2017.
 </div>
 
 <div class="row">
@@ -149,9 +145,10 @@ You describe how you toiled, sweated, _bled_ for your project, and then... you r
     </div>
 </div>
 <div class="caption">
-    Suspension group members and team members in FSC 2017
+    Suspension group (left). Team members on behalf of Jilin Univeristy pariciapting in FSC 2017 (right).
 </div>
 
+In Oct 2017, the Gspeed race car was shipped to Xiangyang circuit for [Formula Student China](http://www.formulastudent.com.cn/) (FSC) 2017, where there were 72 domestic universities to pariciapte in. We finally won the **6th place (1st prize) of overall events**, **2nd place of static events**, and **1st place in Engineering Design**.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -174,6 +171,8 @@ You describe how you toiled, sweated, _bled_ for your project, and then... you r
     Gspeed 2017 on the Xiangyang circuit.
 </div>
 
+The advisor Prof. [WAND Da](https://auto.jlu.edu.cn/info/1152/2821.htm) and I received the award. The team put much thought into Gspeed 2017 and deserved this award.
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/2017/track_3.jpg" class="img-fluid rounded z-depth-1" %}
@@ -183,5 +182,5 @@ You describe how you toiled, sweated, _bled_ for your project, and then... you r
     </div>
 </div>
 <div class="caption">
-    First prize of car design
+    First place in Engineering Design.
 </div>

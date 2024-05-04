@@ -12,11 +12,8 @@ category: racecar
         {% include video.liquid path="//player.bilibili.com/player.html?aid=44471489&bvid=BV1gb411a7Vr&cid=77860396&p=1" class="img-fluid rounded z-depth-1" controls=true %}
     </div>
 </div>
-<div class="caption">
-    Gspeed 2016.
-</div>
 
-In the 2016 season, I was promoted to the suspension group leader and was responsible for the development of the [Gspeed](https://baike.baidu.com/item/吉林大学吉速方程式车队/23156065) suspension system.
+In 2016, I was promoted to the suspension group leader and was responsible for developing the [Gspeed](https://baike.baidu.com/item/吉林大学吉速方程式车队/23156065) suspension system.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -30,7 +27,7 @@ In the 2016 season, I was promoted to the suspension group leader and was respon
     Gspeed 2016 (left) and its suspension system (right).
 </div>
 
-We simulated the suspension in Adams/Car software to ensure the vehicle has excellent **handling stability**. After that, the layout of new suspension system (i.e., hardpoints) was basically determined.
+We modeled and simulated a virtual prototype of the suspension system in Adams/Car software. It was expected to have excellent **handling stability** by modifying the kinodynamic characteristics of virtual components such as springs, dampers, or links. After continuous optimization, the layout of the new suspension (i.e., hardpoints) was basically determined.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -44,10 +41,10 @@ We simulated the suspension in Adams/Car software to ensure the vehicle has exce
     </div>
 </div>
 <div class="caption">
-    Simulation results for Gspeed 2016 suspension. From left to right, they are "Tire lateral force VS slip angle", "Roll center VS wheel travel", and "Ride rate VS wheel travel".
+    Simulation results for Gspeed 2016 suspension: "Tire lateral force VS slip angle", "Roll center VS wheel travel", and "Ride rate VS wheel travel".
 </div>
 
-When designing components, we apply the finite element method (FEM) in ANSYS software to optimize their shapes, weight and load performance.
+When designing specific components, we applied the finite element method (FEM) in ANSYS software to optimize their shapes, weight and load performance. Though lightweighting is important for race cars, reliabity is our primary design goal.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -64,7 +61,7 @@ When designing components, we apply the finite element method (FEM) in ANSYS sof
     Design and optimization of suspension components. From left to right, they are the rocker arm, wheel hub, and upright.
 </div>
 
-How exquisite are these mechanical parts on Gspeed 2016!
+How exquisite are these mechanical parts in the real world!
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
@@ -78,7 +75,7 @@ How exquisite are these mechanical parts on Gspeed 2016!
     Rocker arm (left) and wheel hub (rigth) of Gspeed 2016.
 </div>
 
-During development, we also conducted several experiments to verify the actual performance of the components. For example, we used DP460 adhesive to attach carbon fiber wishones to aluminum joints. In the failure test, the bonded interface was not destroyed until the tensile force reached an astonishing **36.83kN**!
+During development, we also conducted a series of component experiments to verify their actual performance. For example, we used DP460 adhesive to attach carbon fiber wishones to aluminum joints. In failure testing, the bonded interface was not destroyed until the tensile force reached an astonishing **36.83kN**!
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -98,7 +95,7 @@ During development, we also conducted several experiments to verify the actual p
     Snapshots of the carbon-aluminum bonding strength experiment.
 </div>
 
-The completed suspension was installed on the car with other systems. We were very proud of this work and captured many beautiful photos.
+The suspension was completed and assembled with other systems. We were proud of this work and captured many beautiful photos.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
