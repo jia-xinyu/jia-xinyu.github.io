@@ -7,15 +7,16 @@ importance: 2
 category: racecar
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include video.liquid path="//player.bilibili.com/player.html?aid=44471489&bvid=BV1gb411a7Vr&cid=77860396&p=1" class="img-fluid rounded z-depth-1" controls=true %}
     </div>
 </div>
+<div class="caption">
+    Gspeed 2016.
+</div>
+
+In the 2016 season, I was promoted to the suspension group leader and was responsible for the development of the [Gspeed](https://baike.baidu.com/item/吉林大学吉速方程式车队/23156065) suspension system.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -26,9 +27,10 @@ Make your photos 1/3, 2/3, or full width.
     </div>
 </div>
 <div class="caption">
-    Gspeed 2016 (left) and its suspension system (right)
+    Gspeed 2016 (left) and its suspension system (right).
 </div>
 
+We simulated the suspension in Adams/Car software to ensure the vehicle has excellent **handling stability**. After that, the layout of new suspension system (i.e., hardpoints) was basically determined.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -42,9 +44,10 @@ Make your photos 1/3, 2/3, or full width.
     </div>
 </div>
 <div class="caption">
-    Suspension simulation in Adams/Car. From left to right, lateral force - slip angle. roll center - wheel travel. ride rate - wheel travel
+    Simulation results for Gspeed 2016 suspension. From left to right, they are "Tire lateral force VS slip angle", "Roll center VS wheel travel", and "Ride rate VS wheel travel".
 </div>
 
+When designing components, we apply the finite element method (FEM) in ANSYS software to optimize their shapes, weight and load performance.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -58,9 +61,24 @@ Make your photos 1/3, 2/3, or full width.
     </div>
 </div>
 <div class="caption">
-    Design and optimization of components. rocker arm / hub / upright.
+    Design and optimization of suspension components. From left to right, they are the rocker arm, wheel hub, and upright.
 </div>
 
+How exquisite are these mechanical parts on Gspeed 2016!
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/2016/close-up_1.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/2016/close-up_2.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Rocker arm (left) and wheel hub (rigth) of Gspeed 2016.
+</div>
+
+During development, we also conducted several experiments to verify the actual performance of the components. For example, we used DP460 adhesive to attach carbon fiber wishones to aluminum joints. In the failure test, the bonded interface was not destroyed until the tensile force reached an astonishing **36.83kN**!
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -77,22 +95,10 @@ Make your photos 1/3, 2/3, or full width.
     </div>
 </div>
 <div class="caption">
-    Gspeed 2016 on the Xiangyang circuit.
+    Snapshots of the carbon-aluminum bonding strength experiment.
 </div>
 
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2016/close-up_1.jpg" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2016/close-up_2.jpg" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Final shapes of rocker arm / hub.
-</div>
-
+The completed suspension was installed on the car with other systems. We were very proud of this work and captured many beautiful photos.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -103,7 +109,7 @@ Make your photos 1/3, 2/3, or full width.
     </div>
 </div>
 <div class="caption">
-    Final shapes. front body and rear body
+    Front and rear suspension systems of Gspeed 2016.
 </div>
 
 <div class="row">
@@ -112,12 +118,10 @@ Make your photos 1/3, 2/3, or full width.
     </div>
 </div>
 <div class="caption">
-    Gspeed 2016 and its van
+    Gspeed 2016 and its customized trailer.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+In addition to gaining more expertise, I also learned how to manage a group of R&D staff this year.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -128,9 +132,10 @@ You describe how you toiled, sweated, _bled_ for your project, and then... you r
     </div>
 </div>
 <div class="caption">
-    Suspension group members and team members in FSC 2016
+    Suspension group (left). Team members on behalf of Jilin Univeristy pariciapting in FSC 2016 (right).
 </div>
 
+In Oct 2016, the Gspeed race car was shipped to Xiangyang circuit for [Formula Student China](http://www.formulastudent.com.cn/) (FSC) 2016. A total of 69 domestic universities participated, and our team finally won the **2nd prize**.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

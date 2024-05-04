@@ -16,6 +16,9 @@ Make your photos 1/3, 2/3, or full width.
         {% include video.liquid path="//player.bilibili.com/player.html?aid=299057061&bvid=BV1eF41177RS&cid=721491334&p=1" class="img-fluid rounded z-depth-1" controls=true %}
     </div>
 </div>
+<div class="caption">
+    Gspeed 2018-E.
+</div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

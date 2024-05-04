@@ -16,6 +16,9 @@ Make your photos 1/3, 2/3, or full width.
         {% include video.liquid path="//player.bilibili.com/player.html?aid=44375937&bvid=BV1zb411h7BS&cid=77690255&p=1" class="img-fluid rounded z-depth-1" controls=true %}
     </div>
 </div>
+<div class="caption">
+    Gspeed 2017.
+</div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -45,6 +48,17 @@ Make your photos 1/3, 2/3, or full width.
     Power, aerodynamics and human systems
 </div>
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/2017/sus_front.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/2017/sus_rear.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Suspension simulation.
+</div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

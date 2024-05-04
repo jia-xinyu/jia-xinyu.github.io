@@ -18,7 +18,9 @@ To give your project a background in the portfolio page, just add the img tag to
         {% include video.liquid path="//player.bilibili.com/player.html?aid=44365333&bvid=BV1tb411h7wh&cid=77682612&p=1" class="img-fluid rounded z-depth-1" controls=true %}
     </div>
 </div>
-
+<div class="caption">
+    Gspeed 2018-C.
+</div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
