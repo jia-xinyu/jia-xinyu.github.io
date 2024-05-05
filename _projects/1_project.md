@@ -22,7 +22,7 @@ On **Dec 14th 2014**, I received an offer from the [Gspeed Formula Racing Team](
     </div>
 </div>
 
-In the 2015 season, I was responsible for the **mechanical design of suspension uprights**. The upright (made of 7075-T6) is the largest aluminium component on Gspeed 2015. It connects the wheel hub, whisbone, brake caliper and steering arm to the vehicle, so these components transmit great forces to it (1.5g longitudinal deceleration; 2g lateral acceleration). Reliability, strength and light weight are goals we strive for and need to be trade-off during the design process.
+In the 2015 season, I was responsible for the **mechanical design of suspension uprights**. The upright (made of 7075-T6) was the largest aluminium component on Gspeed 2015. It connected the wheel hub, whisbone, brake caliper and steering arm to the vehicle, so these components transmitted great forces to it (1.5g longitudinal deceleration; 2g lateral acceleration). Reliability, strength and light weight were goals we strived for and needed to be traded off during the design process.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -76,7 +76,7 @@ This year, I also learned how to collaborate with others and saw how a team of *
     Suspension group (left). Team members on behalf of Jilin University participating in FSC 2015 (right).
 </div>
 
-In Oct 2015, the car was shipped to the Xiangyang circuit for [Formula Student China](http://www.formulastudent.com.cn/) (FSC) 2015, where there were 67 domestic universities to pariciapte in. Our team finally won a **2nd place** in Engineering Design, a **2nd prize** in static events, and an **overall 11th place (2nd prize)**.
+In Oct 2015, the car was shipped to the Xiangyang circuit for [Formula Student China](http://www.formulastudent.com.cn/) (FSC) 2015, where there were 67 domestic universities to pariciapte in. Our team finally won a **2nd place** in Engineering Design, a **2nd prize** in static events, and a **11th place (2nd prize) overall**.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

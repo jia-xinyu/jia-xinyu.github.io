@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gspeed 2018-E
-description: FASE CFRP monocoque chassis; First prize of FSEC 2018
+description: FASE CFRP monocoque; First prize of FSEC 2018
 img: assets/img/gspeed_2018e.jpg
 importance: 4
 category: racecar
@@ -13,7 +13,7 @@ category: racecar
     </div>
 </div>
 
-In 2018, I served as a [Gspeed](https://baike.baidu.com/item/吉林大学吉速方程式车队/23156065) consultant, providing technical support for the electric race car development (Gspeed 2018-E). Therein, I was involved in the carbon-fiber-reinforced-polymer ([CFRP](https://en.wikipedia.org/wiki/Carbon-fiber_reinforced_polymer)) monocoque project as one of initiators.
+In 2018, I served as a [Gspeed](https://baike.baidu.com/item/吉林大学吉速方程式车队/23156065) consultant, providing technical support for the electric race car development (Gspeed 2018-E). Therein, I was involved in the carbon-fiber-reinforced-polymer ([CFRP](https://en.wikipedia.org/wiki/Carbon-fiber_reinforced_polymer)) monocoque project as one of **initiators**.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -27,7 +27,7 @@ In 2018, I served as a [Gspeed](https://baike.baidu.com/item/吉林大学吉速�
     Gspeed 2018-E (left) and its CFRP monocoque (right).
 </div>
 
-Previous cockpits were mainly made up of steel [trusses](https://en.wikipedia.org/wiki/Truss) (4130 / 30CrMoA). They ensure the safety of our driver and connect all vehicle subsystems, so there are high requirements for stiffness, precision, weight, and vibration mode.
+Previous cockpits were mainly made up of steel [trusses](https://en.wikipedia.org/wiki/Truss) (4130 / 30CrMoA). They ensured the safety of our driver and connected all vehicle subsystems, so there were high requirements for stiffness, precision, weight, and vibration mode.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -44,7 +44,7 @@ Previous cockpits were mainly made up of steel [trusses](https://en.wikipedia.or
     Steel truss cockpit of Gspeed 2017-E.
 </div>
 
-From this season, we adpoted the CFRP monocoque chassis which showed much better performance than steel trusses.
+From this season, we adpoted the CFRP monocoque which showed much better performance than steel trusses.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -78,7 +78,7 @@ Manufacturing such big and precise stuff (over **2.2m length**) was not easy at 
     Monocoque manufacture. From left to right, they are the positive mold, negative mold, and autoclave.
 </div>
 
-I appreciated working with some optimistic guys at that time. We overcame many difficulties and succeeded!
+I appreciated working with some optimistic guys at that time. We overcame many difficulties and made it!
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -109,7 +109,7 @@ I appreciated working with some optimistic guys at that time. We overcame many d
 
 In Nov 2018, the car was transported to the Zhuhai circuit for [Formula Student Electric China](http://www.formulastudent.com.cn/) (FSEC) 2018, where there were 48 domestic universities to pariciapte in. After a week of competition, we won the following awards:
 
-* **1st prize** in FSEC 2018
+* **4th place overall** (1st prize)
 * **3rd place** in Engineering Design
 * **2nd place** in Autocross
 * **2nd place** in Control Strategy Development

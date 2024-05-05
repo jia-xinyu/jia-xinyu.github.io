@@ -13,7 +13,7 @@ category: racecar
     </div>
 </div>
 
-In 2017, I served as the **technical leader** of the [Gspeed Formula Racing Team](https://baike.baidu.com/item/吉林大学吉速方程式车队/23156065) (Gspeed). Meanwhile, I was responsible for developing the entire **chassis** of Gspeed 2017, including suspension, steering, braking and transmission systems.
+In 2017, I served as the **technical leader** of the [Gspeed Formula Racing Team](https://baike.baidu.com/item/吉林大学吉速方程式车队/23156065) (Gspeed). Meanwhile, I was responsible for developing the entire **chassis** of Gspeed 2017, including suspension, steering, braking, and transmission systems.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -148,7 +148,7 @@ In 2017, I witnessed the growth of an excellent R&D team (approximately **100 pe
     Suspension group (left). Team members on behalf of Jilin University participating in FSC 2017 (right).
 </div>
 
-In Nov 2017, the car was transported to the Xiangyang circuit for [Formula Student China](http://www.formulastudent.com.cn/) (FSC) 2017, which was attended by 72 domestic universities. We finally won a **1st place** in Engineering Design, a **2nd place** in static events, and an **overall 6th place (1st prize)**.
+In Nov 2017, the car was transported to the Xiangyang circuit for [Formula Student China](http://www.formulastudent.com.cn/) (FSC) 2017, which was attended by 72 domestic universities. We finally won a **1st place** in Engineering Design, a **2nd place** in static events, and a **6th place (1st prize) overall**.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

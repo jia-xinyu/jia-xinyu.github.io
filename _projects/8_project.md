@@ -26,9 +26,10 @@ Make your photos 1/3, 2/3, or full width.
     </div>
 </div>
 <div class="caption">
-    6-DoF Robotic Manipulator.
+    6-DoF Robotic manipulator.
 </div>
 
+## Hardware
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -36,9 +37,8 @@ Make your photos 1/3, 2/3, or full width.
     </div>
 </div>
 <div class="caption">
-    Actuator.
+    Explosive view of the actuator.
 </div>
-
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -49,9 +49,8 @@ Make your photos 1/3, 2/3, or full width.
     </div>
 </div>
 <div class="caption">
-    Motor with a harmonic drive.
+    50:1 reduction ratio of harmonic drive.
 </div>
-
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -65,9 +64,8 @@ Make your photos 1/3, 2/3, or full width.
     </div>
 </div>
 <div class="caption">
-    Robot manipulator.
+    Assembled robotic manipulator.
 </div>
-
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -84,7 +82,6 @@ Make your photos 1/3, 2/3, or full width.
     Close-up views.
 </div>
 
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/arm/board_1.png" class="img-fluid rounded z-depth-1" %}
@@ -99,9 +96,8 @@ Make your photos 1/3, 2/3, or full width.
     </div>
 </div>
 <div class="caption">
-    PCB board.
+    Customized PCB board.
 </div>
-
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -112,9 +108,10 @@ Make your photos 1/3, 2/3, or full width.
     </div>
 </div>
 <div class="caption">
-    Electronics.
+    Electronic system.
 </div>
 
+## Software
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -122,9 +119,8 @@ Make your photos 1/3, 2/3, or full width.
     </div>
 </div>
 <div class="caption">
-    Software architecture.
+    Real-time software architecture.
 </div>
-
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -137,9 +133,6 @@ Make your photos 1/3, 2/3, or full width.
 <div class="caption">
     FSM machine (left) and control framework (right).
 </div>
-
-
-Simulation and experiments.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -156,6 +149,7 @@ Simulation and experiments.
     Simulation.
 </div>
 
+## Demo
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -171,5 +165,5 @@ Simulation and experiments.
     </div>
 </div>
 <div class="caption">
-    Simulation and Hardware.
+    Hardware experiments.
 </div>

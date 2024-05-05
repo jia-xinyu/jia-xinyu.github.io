@@ -68,5 +68,5 @@ I also took the drones to western Sichuan Province in China in May 2020 and had 
     </div>
 </div>
 <div class="caption">
-    Western Sichuan (photographed by my friends SUN Yifeng and PANG Quanrui on May 3rd, 2020).
+    Western Sichuan (photographed by my friends PANG Quanrui, SUN Yifeng and XIE Chenghao on May 3rd, 2020).
 </div>

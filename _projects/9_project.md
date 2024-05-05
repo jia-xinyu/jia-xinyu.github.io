@@ -68,9 +68,6 @@ Make your photos 1/3, 2/3, or full width.
 </div>
 
 
-Simulation and experiments.
-
-
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
         {% include video.liquid path="assets/video/dual/sim.mp4" class="img-fluid rounded z-depth-1" controls=true muted=true autoplay=true loop=true %}

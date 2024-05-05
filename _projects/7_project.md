@@ -21,15 +21,17 @@ Make your photos 1/3, 2/3, or full width.
     </div>
 </div>
 <div class="caption">
-    Quadruped Robot.
+    12-DoF Quadruped robot.
 </div>
 
-## Project Members
+Project Members
+
 * Mechanical Engineers: [Shounak Bhattacharya](https://sites.google.com/view/shounakoffice/home), <u>Xinyu Jia</u>.
 * Electronic Engineers: <u>Xinyu Jia</u>, [Sumantra Sharma](https://cde.nus.edu.sg/bme/bioroboticslab/author/sumantra-sharma/), [Low Chang Hong](https://cde.nus.edu.sg/bme/bioroboticslab/author/low-chang-hong/).
 * Software Engineers: <u>Xinyu Jia</u>, [Sumantra Sharma](https://cde.nus.edu.sg/bme/bioroboticslab/author/sumantra-sharma/), [Low Chang Hong](https://cde.nus.edu.sg/bme/bioroboticslab/author/low-chang-hong/).
 * Algorithm Engineers: <u>Xinyu Jia</u>, [Hari Prasanth Palanivelu](https://cde.nus.edu.sg/bme/bioroboticslab/author/hari-prasanth-palanivelu/).
 
+## Hardware
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -43,7 +45,7 @@ Make your photos 1/3, 2/3, or full width.
     </div>
 </div>
 <div class="caption">
-    Transimission in the leg (left). Body design (right).
+    Mechanical design. The figures from left to right illustrate the leg transimission, joint layout, and body structure.
 </div>
 
 <div class="row">
@@ -55,7 +57,7 @@ Make your photos 1/3, 2/3, or full width.
     </div>
 </div>
 <div class="caption">
-    Mechanical and electronic components.
+    Electronic system.
 </div>
 
 <div class="row">
@@ -85,6 +87,8 @@ Make your photos 1/3, 2/3, or full width.
     Wiring diagram (left) and software architecture (right).
 </div>
 
+## Software
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/legged/control.jpg" class="img-fluid rounded z-depth-1" %}
@@ -106,9 +110,7 @@ Make your photos 1/3, 2/3, or full width.
     Simulation in Gazebo.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+## Demo
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -140,7 +142,7 @@ You describe how you toiled, sweated, _bled_ for your project, and then... you r
     </div>
 </div>
 <div class="caption">
-    Trot indoors
+    Trot indoors.
 </div>
 
 <div class="row">
@@ -149,5 +151,5 @@ You describe how you toiled, sweated, _bled_ for your project, and then... you r
     </div>
 </div>
 <div class="caption">
-    Trot outdoors
+    Trot outdoors.
 </div>

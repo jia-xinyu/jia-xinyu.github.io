@@ -116,13 +116,17 @@ New members were joining and becoming main force of Gspeed.
 
 In Oct 2018, the car was transported to the Xiangyang circuit for FSCC 2018, which was attended by 66 domestic universities. After a week of competition, we won the **first championship** in Gspeed history! All awards we received are listed below:
 
-* **1st place** in FSCC 2018 (Champion)
+* **1st place overall** (Champion)
 * **3rd place** in Cost & Manufacturing Analysis
 * **1st place** in Engineering Design
 * **3rd place** in Acceleration
 * **2nd place** in Autocross
 * **2nd place** in Endurance
+* **Fastest lap** in Endurance
 * **1st place** in Lightweighting
+* **1st prize** in ANSYS Simulation
+
+More importantly, we were funded to represent China in [Formula Studen Germany](https://www.formulastudent.de/fsg/) (FSG) 2019!
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -152,7 +156,7 @@ In Oct 2018, the car was transported to the Xiangyang circuit for FSCC 2018, whi
     Gspeed 2018-C on the Xiangyang circuit.
 </div>
 
-Fortunately, I witnessed this exciting moment with other retired members at the award ceremony.
+Fortunately, I witnessed this exciting moment with other retired teammates at the award ceremony.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

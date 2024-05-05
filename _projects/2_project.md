@@ -44,7 +44,7 @@ We modeled and simulated a virtual prototype of the suspension system in Adams/C
     Simulation results for Gspeed 2016 suspension: "Tire lateral force VS slip angle", "Roll center VS wheel travel", and "Ride rate VS wheel travel".
 </div>
 
-When designing specific components, we applied the finite element method (FEM) in ANSYS software to optimize their shapes, weight and load performance. Though lightweighting is important for race cars, reliabity is our primary design goal.
+When designing specific components, we applied the finite element method (FEM) in ANSYS software to optimize their shapes, weight and load performance. Though lightweighting was important for race cars, reliabity was our primary design goal.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -61,7 +61,7 @@ When designing specific components, we applied the finite element method (FEM) i
     Design and optimization of suspension components. From left to right, they are the rocker arm, wheel hub, and upright.
 </div>
 
-How exquisite are these mechanical parts in the real world!
+How exquisite were these mechanical parts in the real world!
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
@@ -132,7 +132,7 @@ In addition to gaining more expertise, I also learned how to manage a group of R
     Suspension group (left). Team members on behalf of Jilin University participating in FSC 2016 (right).
 </div>
 
-In Oct 2016, the Gspeed race car was transported to the Xiangyang circuit for [Formula Student China](http://www.formulastudent.com.cn/) (FSC) 2016. A total of 69 domestic universities participated, and our team finally won an **overall 2nd prize**.
+In Oct 2016, the Gspeed race car was transported to the Xiangyang circuit for [Formula Student China](http://www.formulastudent.com.cn/) (FSC) 2016. A total of 69 domestic universities participated, and our team finally won a **2nd prize overall**.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
