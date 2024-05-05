@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gspeed 2017
-description: FASE chassis; Technical Lead; First prize of FSC 2017
+description: FASE chassis; Technical leader; First prize of FSC 2017
 img: assets/img/gspeed_2017.jpg
 importance: 3
 category: racecar
@@ -13,7 +13,7 @@ category: racecar
     </div>
 </div>
 
-In 2017, I served as the technical lead of the [Gspeed Formula Racing Team](https://baike.baidu.com/item/吉林大学吉速方程式车队/23156065) (Gspeed). Meanwhile, I was responsible for developing the entire chassis of Gspeed 2017, including suspension, steering, braking and transmission systems.
+In 2017, I served as the **technical leader** of the [Gspeed Formula Racing Team](https://baike.baidu.com/item/吉林大学吉速方程式车队/23156065) (Gspeed). Meanwhile, I was responsible for developing the entire **chassis** of Gspeed 2017, including suspension, steering, braking and transmission systems.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -145,20 +145,16 @@ In 2017, I witnessed the growth of an excellent R&D team (approximately **100 pe
     </div>
 </div>
 <div class="caption">
-    Suspension group (left). Team members on behalf of Jilin Univeristy pariciapting in FSC 2017 (right).
+    Suspension group (left). Team members on behalf of Jilin University participating in FSC 2017 (right).
 </div>
 
-In Nov 2017, the car was transported to the Xiangyang circuit for [Formula Student China](http://www.formulastudent.com.cn/) (FSC) 2017, which was attended by 72 domestic universities. We finally won the **6th overall place (1st prize)**, **2nd place** of static events, and **1st place** in Engineering Design.
+In Nov 2017, the car was transported to the Xiangyang circuit for [Formula Student China](http://www.formulastudent.com.cn/) (FSC) 2017, which was attended by 72 domestic universities. We finally won a **1st place** in Engineering Design, a **2nd place** in static events, and an **overall 6th place (1st prize)**.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/2017/track.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    Gspeed 2017 on the Xiangyang circuit.
-</div>
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/2017/track_1.jpg" class="img-fluid rounded z-depth-1" %}

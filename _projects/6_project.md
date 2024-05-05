@@ -7,11 +7,7 @@ importance: 6
 category: racecar
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+After graduation in summer 2018, I worked as a Mechanical Engineer at Shenzhen [DJI](https://www.dji.com/) Technology Co., Ltd., where I participated in hardware development for autonomous driving, including stereo cameras and autonomous driving control unit (ADCU). 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -19,7 +15,7 @@ To give your project a background in the portfolio page, just add the img tag to
     </div>
 </div>
 <div class="caption">
-    DJI and Gspeed
+    Gspeed graduates at the DJI headquarters.
 </div>
 
 <div class="row">
@@ -31,8 +27,10 @@ To give your project a background in the portfolio page, just add the img tag to
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. source from DJI Automotive
+    Automous driving of DJI (source from DJI Automotive).
 </div>
+
+In spare time, I enjoy flying DJI drones on Shenzhen beaches. Look at these beautiful landscapes!
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -51,12 +49,10 @@ To give your project a background in the portfolio page, just add the img tag to
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    DJI drones: Inspire 2 and Spark.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+I also took the drones to western Sichuan Province in China in May 2020 and had an impressive road trip.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -72,5 +68,5 @@ You describe how you toiled, sweated, _bled_ for your project, and then... you r
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    Western Sichuan (photographed by my friends SUN Yifeng and PANG Quanrui on May 3rd, 2020).
 </div>

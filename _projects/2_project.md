@@ -13,7 +13,7 @@ category: racecar
     </div>
 </div>
 
-In 2016, I was promoted to the suspension group leader and was responsible for developing the [Gspeed](https://baike.baidu.com/item/吉林大学吉速方程式车队/23156065) suspension system.
+In 2016, I was promoted to the suspension group leader and was responsible for developing the [Gspeed](https://baike.baidu.com/item/吉林大学吉速方程式车队/23156065) **suspension system**.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -95,7 +95,7 @@ During development, we also conducted a series of component experiments to verif
     Snapshots of the carbon-aluminum bonding strength experiment.
 </div>
 
-The suspension was completed and assembled with other systems. We were proud of this work and hence captured many beautiful photos.
+The suspension was completed and assembled with other systems. We were proud of this work and captured many beautiful photos.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -129,20 +129,16 @@ In addition to gaining more expertise, I also learned how to manage a group of R
     </div>
 </div>
 <div class="caption">
-    Suspension group (left). Team members on behalf of Jilin Univeristy pariciapting in FSC 2016 (right).
+    Suspension group (left). Team members on behalf of Jilin University participating in FSC 2016 (right).
 </div>
 
-In Oct 2016, the Gspeed race car was transported to the Xiangyang circuit for [Formula Student China](http://www.formulastudent.com.cn/) (FSC) 2016. A total of 69 domestic universities participated, and our team finally won the **2nd prize** of overall events.
+In Oct 2016, the Gspeed race car was transported to the Xiangyang circuit for [Formula Student China](http://www.formulastudent.com.cn/) (FSC) 2016. A total of 69 domestic universities participated, and our team finally won an **overall 2nd prize**.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/2016/track.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    Gspeed 2016 on the Xiangyang circuit.
-</div>
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/2016/track_1.jpg" class="img-fluid rounded z-depth-1" %}

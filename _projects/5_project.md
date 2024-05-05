@@ -13,9 +13,7 @@ category: racecar
     </div>
 </div>
 
-In 2018, I served as a consultant of the [Gspeed Formula Racing Team](https://baike.baidu.com/item/吉林大学吉速方程式车队/23156065) (Gspeed), providing technical support for the R&D of our combustion car (Gspeed 2018-C) and electric car ([Gspeed 2018-E](https://jia-xinyu.github.io/projects/4_project/)). 
-
-Thanks to all Gspeed members, we won the **championship** in [Formula Student Combustion China]((http://www.formulastudent.com.cn/))(FSCC) 2018!
+In 2018, I served as a [Gspeed](https://baike.baidu.com/item/吉林大学吉速方程式车队/23156065) consultant, providing technical support for the combustion race car development (Gspeed 2018-C). Thanks to all team members, we won the **championship** in [Formula Student Combustion China](http://www.formulastudent.com.cn/)(FSCC) 2018!
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -29,7 +27,7 @@ Thanks to all Gspeed members, we won the **championship** in [Formula Student Co
     We are the champion of FSCC 2018!
 </div>
 
-One of the big upgrades this season was the new powertrain. The predecessor Honda CBR600F four-cylinder engine with a 1.65bar turbocharger was replaced by **a KTM 690 Duke** single-cylinder engine with **a 300cc supercharger**. To this end, we designed a new set of intake, exhust, boost, fuel, cooling, and electronic systems. The new powertrain has a max power of **60kW** and can maintain **82Nm** torque output within a wide speed range (**2500~6000r/min**). What incredible data!
+One of the major upgrades this season was the new powertrain. The predecessor Honda CBR600F four-cylinder engine with a 1.65bar turbocharger was replaced by a **KTM 690 Duke** single-cylinder engine with a 300cc **supercharger**. To this end, we designed a new set of intake, exhust, boost, fuel, cooling, and electronic systems. The new powertrain has a max power of **60kW** and can maintain **82Nm** torque output within a wide speed range (**2500~6000r/min**). What incredible data!
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -43,7 +41,7 @@ One of the big upgrades this season was the new powertrain. The predecessor Hond
     Bench testing of our new powertrain.
 </div>
 
-Simuntaneously, we developed a new braking system with ventilated discs. Brake cooling performance has been greatly improved.
+In terms of the chassis, we developed a new braking system with ventilated discs. Brake cooling performance has been greatly improved.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -60,7 +58,7 @@ Simuntaneously, we developed a new braking system with ventilated discs. Brake c
     New braking system with ventilated discs.
 </div>
 
-In terms of the chassis, we upgraded the [3rd-spring](https://optimumg.com/tech-tip-springs-dampers-part-three/) suspension system for better vehicle handling stability.
+And we upgraded the [3rd-spring](https://optimumg.com/tech-tip-springs-dampers-part-three/) suspension system for better vehicle handling stability.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -113,10 +111,18 @@ New members were joining and becoming main force of Gspeed.
     </div>
 </div>
 <div class="caption">
-    Suspension group (left). Team members on behalf of Jilin Univeristy pariciapting in FSCC 2018 (right).
+    Suspension group (left). Team members on behalf of Jilin University participating in FSCC 2018 (right).
 </div>
 
-In Oct 2018, the car was transported to the Xiangyang circuit for FSCC 2018, which was attended by 66 domestic universities. We finally won the **championship** as well as many awards in the sub-events. This is the first championship in the history of Gspeed!
+In Oct 2018, the car was transported to the Xiangyang circuit for FSCC 2018, which was attended by 66 domestic universities. After a week of competition, we won the **first championship** in Gspeed history! All awards we received are listed below:
+
+* **1st place** in FSCC 2018 (Champion)
+* **3rd place** in Cost & Manufacturing Analysis
+* **1st place** in Engineering Design
+* **3rd place** in Acceleration
+* **2nd place** in Autocross
+* **2nd place** in Endurance
+* **1st place** in Lightweighting
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -146,7 +152,7 @@ In Oct 2018, the car was transported to the Xiangyang circuit for FSCC 2018, whi
     Gspeed 2018-C on the Xiangyang circuit.
 </div>
 
-Fortunately, I witnessed this exciting moment with other retired Gspeed members at the award ceremony.
+Fortunately, I witnessed this exciting moment with other retired members at the award ceremony.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -173,7 +179,7 @@ Fortunately, I witnessed this exciting moment with other retired Gspeed members 
     Award ceremony of FSCC 2018.
 </div>
 
-At this point, my story in Gspeed was paused. However, the Gspeed's story continues. There are more advanced technologies being developed and applied to our race cars, such as the carbon fiber reinforced plastic (CFPR) **monocoque** of Gspeed 2019-C.
+At this point, my story in Gspeed was paused. However, the Gspeed's story has been continuing. There are more advanced technologies being developed and applied to race cars, such as the carbon-fiber-reinforced-polymer ([CFRP](https://en.wikipedia.org/wiki/Carbon-fiber_reinforced_polymer)) **monocoque** of Gspeed 2019-C.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
