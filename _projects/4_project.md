@@ -7,18 +7,13 @@ importance: 4
 category: racecar
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include video.liquid path="//player.bilibili.com/player.html?aid=299057061&bvid=BV1eF41177RS&cid=721491334&p=1" class="img-fluid rounded z-depth-1" controls=true %}
     </div>
 </div>
-<div class="caption">
-    Gspeed 2018-E.
-</div>
+
+In 2018, I served as a consultant of the [Gspeed Formula Racing Team](https://baike.baidu.com/item/吉林大学吉速方程式车队/23156065) (Gspeed), providing technical support for the R&D of our combustion car ([Gspeed 2018-C](https://jia-xinyu.github.io/projects/5_project/)) and electric car (Gspeed 2018-E). 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

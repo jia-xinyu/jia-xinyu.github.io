@@ -95,7 +95,7 @@ During development, we also conducted a series of component experiments to verif
     Snapshots of the carbon-aluminum bonding strength experiment.
 </div>
 
-The suspension was completed and assembled with other systems. We were proud of this work and captured many beautiful photos.
+The suspension was completed and assembled with other systems. We were proud of this work and hence captured many beautiful photos.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -132,7 +132,7 @@ In addition to gaining more expertise, I also learned how to manage a group of R
     Suspension group (left). Team members on behalf of Jilin Univeristy pariciapting in FSC 2016 (right).
 </div>
 
-In Oct 2016, the Gspeed race car was shipped to Xiangyang circuit for [Formula Student China](http://www.formulastudent.com.cn/) (FSC) 2016. A total of 69 domestic universities participated, and our team finally won the **2nd prize**.
+In Oct 2016, the Gspeed race car was transported to the Xiangyang circuit for [Formula Student China](http://www.formulastudent.com.cn/) (FSC) 2016. A total of 69 domestic universities participated, and our team finally won the **2nd prize** of overall events.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

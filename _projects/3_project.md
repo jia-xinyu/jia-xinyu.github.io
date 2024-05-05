@@ -42,7 +42,7 @@ In 2017, I served as the technical lead of the [Gspeed Formula Racing Team](http
     Powertrain, aerodynamics and cockpit.
 </div>
 
-Inspired by Formula One (F1), we introduced the [3rd-spring](https://optimumg.com/tech-tip-springs-dampers-part-three/) technology in Gspeed 2017. It can decouple the chassis's longitudinal and lateral movements, improving the handling stability in the two directions, which was validated in Adams/Car simulations.
+Inspired by Formula One (F1), we introduced the [3rd-spring](https://optimumg.com/tech-tip-springs-dampers-part-three/) technology in Gspeed 2017. It decoupled the chassis's longitudinal and lateral movements, improving the handling stability in the two directions, which was validated in Adams/Car simulations.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -56,7 +56,7 @@ Inspired by Formula One (F1), we introduced the [3rd-spring](https://optimumg.co
     Simulations of the 3rd-spring chassis: bounce, roll, steering ratio, etc.
 </div>
 
-The maneuver of the full vehicle under transient and steady conditions was studied too. The virtual prototype was verified in some standard experiments, such as the [skidpad](https://en.wikipedia.org/wiki/Skidpad), and was also "driven" on the 1:1 Xiangyang circuit!
+The maneuver of the full vehicle under transient and steady conditions was studied too. The virtual prototype was verified in some standard experiments, such as the [skidpad](https://en.wikipedia.org/wiki/Skidpad), and it was also "driven" on the 1:1 Xiangyang circuit!
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -67,7 +67,7 @@ The maneuver of the full vehicle under transient and steady conditions was studi
     </div>
 </div>
 <div class="caption">
-    Full vehicle simulation in Adams/Car.
+    Full vehicle simulation in Adams/Car software.
 </div>
 
 In addition to rich simulations, we invested much effort in real hardware experiments and obtained a lot of valuable data.
@@ -133,7 +133,7 @@ In 2017, I witnessed the growth of an excellent R&D team (approximately **100 pe
     </div>
 </div>
 <div class="caption">
-    A group photo with our brother team Gspeed-E in FSC 2017.
+    A family photo with our brother team Gspeed-E in FSC 2017.
 </div>
 
 <div class="row">
@@ -148,7 +148,7 @@ In 2017, I witnessed the growth of an excellent R&D team (approximately **100 pe
     Suspension group (left). Team members on behalf of Jilin Univeristy pariciapting in FSC 2017 (right).
 </div>
 
-In Oct 2017, the Gspeed race car was shipped to Xiangyang circuit for [Formula Student China](http://www.formulastudent.com.cn/) (FSC) 2017, where there were 72 domestic universities to pariciapte in. We finally won the **6th place (1st prize) of overall events**, **2nd place of static events**, and **1st place in Engineering Design**.
+In Nov 2017, the car was transported to the Xiangyang circuit for [Formula Student China](http://www.formulastudent.com.cn/) (FSC) 2017, which was attended by 72 domestic universities. We finally won the **6th overall place (1st prize)**, **2nd place** of static events, and **1st place** in Engineering Design.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -171,7 +171,7 @@ In Oct 2017, the Gspeed race car was shipped to Xiangyang circuit for [Formula S
     Gspeed 2017 on the Xiangyang circuit.
 </div>
 
-The advisor Prof. [WAND Da](https://auto.jlu.edu.cn/info/1152/2821.htm) and I received the award. The team put much thought into Gspeed 2017 and deserved this award.
+The advisor Prof. [WANG Da](https://auto.jlu.edu.cn/info/1731/6693.htm) and I together received the award. The team put much thought into Gspeed 2017 and deserved this honor.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

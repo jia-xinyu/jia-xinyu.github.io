@@ -9,7 +9,7 @@ category: racecar
 
 I was admitted to Jilin Univeristy on Sep 1st 2014, majoring in Vehicle Engineering (top 3 in China).
 
-On **Dec 14th 2014**, I received an offer from the [Gspeed Formula Racing Team](https://baike.baidu.com/item/吉林大学吉速方程式车队/23156065) (Gspeed) and became a memeber of suspension group. From this moment, I was inseparable from extreme sports and mechatronics.
+On **Dec 14th 2014**, I received an offer from the [Gspeed Formula Racing Team](https://baike.baidu.com/item/吉林大学吉速方程式车队/23156065) (Gspeed) and became a member of suspension group. From this moment, I was inseparable from extreme sports and mechatronics.
 
 <!-- <iframe src="//player.bilibili.com/player.html?aid=44477551&bvid=BV1gb411a7Xz&cid=77870491&p=1"
         style="width: 992px; height: 558px; display: block; margin: 0 auto;" 
@@ -76,7 +76,7 @@ This year, I also learned how to collaborate with others and saw how a team of *
     Suspension group (left). Team members on behalf of Jilin Univeristy pariciapting in FSC 2015 (right).
 </div>
 
-In Oct 2015, the Gspeed race car was shipped to Xiangyang circuit for [Formula Student China](http://www.formulastudent.com.cn/) (FSC) 2015, where there were 67 domestic universities to pariciapte in. We finally won the **11th place (2nd prize)**, and especially won the **2nd place in Engineering Design**.
+In Oct 2015, the car was shipped to the Xiangyang circuit for [Formula Student China](http://www.formulastudent.com.cn/) (FSC) 2015, where there were 67 domestic universities to pariciapte in. We finally won the **11th place (2nd prize)**, and especially won the **2nd place in Engineering Design**.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
