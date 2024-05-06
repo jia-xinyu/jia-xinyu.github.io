@@ -39,7 +39,7 @@ In 2017, I served as the **technical leader** of the [Gspeed Formula Racing Team
     </div>
 </div>
 <div class="caption">
-    Powertrain, aerodynamics and cockpit.
+    Powertrain, aerodynamics, and cockpit.
 </div>
 
 Inspired by Formula One (F1), we introduced the [3rd-spring](https://optimumg.com/tech-tip-springs-dampers-part-three/) technology in Gspeed 2017. It decoupled the chassis's longitudinal and lateral movements, improving the handling stability in the two directions, which was validated in Adams/Car simulations.

@@ -27,7 +27,7 @@ In 2018, I served as a [Gspeed](https://baike.baidu.com/item/吉林大学吉速�
     We are the champion of FSCC 2018!
 </div>
 
-One of the major upgrades this season was the new powertrain. The predecessor Honda CBR600F four-cylinder engine with a 1.65bar turbocharger was replaced by a **KTM 690 Duke** single-cylinder engine with a 300cc **supercharger**. To this end, we designed a new set of intake, exhust, boost, fuel, cooling, and electronic systems. The new powertrain has a max power of **60kW** and can maintain **82Nm** torque output within a wide speed range (**2500~6000r/min**). What incredible data!
+One of major upgrades this season was the new powertrain. The predecessor Honda CBR600F four-cylinder engine with a 1.65bar turbocharger was replaced by a **KTM 690 Duke** single-cylinder engine with a 300cc **supercharger**. To this end, we designed a new set of intake, exhust, boost, fuel, cooling, and electronic systems. The new powertrain has a max power of **60kW** and can maintain **82Nm** torque output within a wide speed range (**2500~6000r/min**). What incredible data!
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

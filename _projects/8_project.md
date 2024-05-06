@@ -8,11 +8,9 @@ category: robot
 # giscus_comments: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+In the sencond year of my Ph.D., I was responsible for the development of a 6-degree-of-freedom (DoF) robotic manipulator.
 
-## Project Members
+Project members: 
 * Mechanics: [Terry Cavan Chan](https://cde.nus.edu.sg/bme/bioroboticslab/author/terry-cavan-chan/), <u>Xinyu Jia</u>, [Haotian Guo](https://cde.nus.edu.sg/bme/bioroboticslab/author/guo-haotian/).
 * Electronics: <u>Xinyu Jia</u>, [Low Chang Hong](https://cde.nus.edu.sg/bme/bioroboticslab/author/low-chang-hong/).
 * Software & Algorithm: <u>Xinyu Jia</u>.
@@ -26,10 +24,10 @@ Make your photos 1/3, 2/3, or full width.
     </div>
 </div>
 <div class="caption">
-    6-DoF Robotic manipulator.
+    6-DoF robotic manipulator.
 </div>
 
-## Hardware
+Each joint of the robot is driven by a motor with 50:1 reduction ratio of harmonic drive.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

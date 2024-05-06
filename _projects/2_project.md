@@ -44,7 +44,7 @@ We modeled and simulated a virtual prototype of the suspension system in Adams/C
     Simulation results for Gspeed 2016 suspension: "Tire lateral force VS slip angle", "Roll center VS wheel travel", and "Ride rate VS wheel travel".
 </div>
 
-When designing specific components, we applied the finite element method (FEM) in ANSYS software to optimize their shapes, weight and load performance. Though lightweighting was important for race cars, reliabity was our primary design goal.
+When designing specific components, we applied the finite element method (FEM) in ANSYS software to optimize their shapes, weight, and load performance. Though lightweighting was important for race cars, reliabity was our primary design goal.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
