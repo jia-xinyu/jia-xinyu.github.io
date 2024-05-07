@@ -8,9 +8,7 @@ category: robot
 # redirect: https://unsplash.com
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Based on the previous [robotic project](https://jia-xinyu.github.io/projects/8_project/), we developed a 12-degree-of-freedom (DoF) collaborative robot (**cobot**) in 2022. It has a pair of force-controlled robotic arms, each equipped with a gripper.
 
 Project members: 
 * Mechanics: [Terry Cavan Chan](https://cde.nus.edu.sg/bme/bioroboticslab/author/terry-cavan-chan/), <u>Xinyu Jia</u>, [Haotian Guo](https://cde.nus.edu.sg/bme/bioroboticslab/author/guo-haotian/).
@@ -28,6 +26,7 @@ Project members:
     Bimanual robot.
 </div>
 
+The robotic arm is mounted on the body with an inclination of **45°** to avoid singularity near frequently used configurations.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -38,9 +37,10 @@ Project members:
     </div>
 </div>
 <div class="caption">
-    Arm.
+    Robotic arms.
 </div>
 
+We design several sizes of grippers for different scenerios. Their fingers are underactuated and assembled with **tactile sensors**. For more information, please refer to my colleague Haotian Guo's [paper](https://ieeexplore.ieee.org/document/9793603).
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -51,9 +51,10 @@ Project members:
     </div>
 </div>
 <div class="caption">
-    Gripper.
+    Robotic grippers.
 </div>
 
+The robot also has eyes (ZED 2 stereo camera) and a 2-DoF neck (DYNAMIXEL MX-106R motor). In fact, the robot has a similar configuration to its [predecessor](https://jia-xinyu.github.io/projects/8_project/) in terms of **electronics** and **software**.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -64,9 +65,10 @@ Project members:
     </div>
 </div>
 <div class="caption">
-    Bimanual robot.
+    Bimanual collaborative robot.
 </div>
 
+We validate the control algorithm in **CoppeliaSim** simulation and on real hardware. More demo videos are in preparation.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
@@ -77,5 +79,5 @@ Project members:
     </div>
 </div>
 <div class="caption">
-    Simulation and experiments.
+    Simulation and hardware experiment.
 </div>

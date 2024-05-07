@@ -7,9 +7,7 @@ importance: 5
 category: robot
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+For preliminary algorithm verification, we developed a pendulum platform in 2022. It has only one actuated joint equipped a (brushless DC electric) **BLDC motor** (GYEMS L5010) and a **50:1 harmonic reducer**. The electronics is same as in the [robotic manipulator](https://jia-xinyu.github.io/projects/8_project/).
 
 Project members: 
 * Mechanics: [Terry Cavan Chan](https://cde.nus.edu.sg/bme/bioroboticslab/author/terry-cavan-chan/), <u>Xinyu Jia</u>.
@@ -37,7 +35,7 @@ Project members:
     </div>
 </div>
 <div class="caption">
-    Test motor torque.
+    Test motor torque constant (roughly).
 </div>
 
 
@@ -53,7 +51,7 @@ Project members:
     </div>
 </div>
 <div class="caption">
-    Motor test. Motion (left) and gravity (right).
+    Free-space tracking, zero gravity mode, max payload test (from left to right).
 </div>
 
 
@@ -65,9 +63,6 @@ Project members:
 <div class="caption">
     Actuator.
 </div>
-
-
-Step.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -81,11 +76,8 @@ Step.
     </div>
 </div>
 <div class="caption">
-    Step test. PD (left) and USDE (right).
+    Step signal. PD (left) and USDE (right).
 </div>
-
-
-Sine.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -99,5 +91,5 @@ Sine.
     </div>
 </div>
 <div class="caption">
-    Step test. PD (left) and USDE (right).
+    Sine signal. PD (left) and USDE (right).
 </div>

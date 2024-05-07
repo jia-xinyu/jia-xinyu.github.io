@@ -7,9 +7,7 @@ importance: 4
 category: robot
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+In 2023, my third year at the NUS, I participated in the development of a 18-degree-of-freedom (DoF) **quadruped mobile manipulator** robot. It consists of a 12-DoF [legged robot](https://jia-xinyu.github.io/projects/7_project/) and a 6-DoF [robotic manipulator](https://jia-xinyu.github.io/projects/8_project/).
 
 Project members: 
 * Mechanics: [Terry Cavan Chan](https://cde.nus.edu.sg/bme/bioroboticslab/author/terry-cavan-chan/), <u>Xinyu Jia</u>.
@@ -27,7 +25,6 @@ Project members:
     Quadruped mobile manipulator.
 </div>
 
-
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/legged_arm/legged.jpg" class="img-fluid rounded z-depth-1" %}
@@ -40,6 +37,7 @@ Project members:
     Quadruped robot + Robotic manipulator.
 </div>
 
+The mechanical system has major upgrades. For example, more carbon fiber material are used for lightweighting (25kg in total); we select a more powerful motor (GYEMS RMD X8 Pro 9:1) and design a new leg tranmission structure for high payload.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -50,7 +48,7 @@ Project members:
     </div>
 </div>
 <div class="caption">
-    Mechanical Design.
+    Robot body (left) and leg tranmission (right).
 </div>
 
 <div class="row">
@@ -62,9 +60,8 @@ Project members:
     </div>
 </div>
 <div class="caption">
-    Simulation.
+    Simulation of equivalent stress and total deformation.
 </div>
-
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -75,9 +72,10 @@ Project members:
     </div>
 </div>
 <div class="caption">
-    Mechanical Design.
+    Joint connection.
 </div>
 
+The electronic system is also upgraded. The computers PC104 and NVIDIA TX2 in the [predecessor](https://jia-xinyu.github.io/projects/7_project/) are replaced by **Intel NUC** and **NVIDIA Xavier**, respectively. More importantly, the layout of the electronic devices is carefully considered to make it easier for us to maintain after experiments.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -88,9 +86,8 @@ Project members:
     </div>
 </div>
 <div class="caption">
-    Electronics layout.
+    Layout of electronic devices.
 </div>
-
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -104,9 +101,10 @@ Project members:
     </div>
 </div>
 <div class="caption">
-    Electronics.
+    Electronic system.
 </div>
 
+Currently, all hardware has been completed. A whole-body planning and control algorithm is being developed to coordinate its locomotion and manipulation. Let's wait and see.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -117,12 +115,11 @@ Project members:
     Robot.
 </div>
 
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/legged_arm/all.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Family.
+    Family photo of my robot friends during the 4-year Ph.D.
 </div>

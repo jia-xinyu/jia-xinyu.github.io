@@ -33,7 +33,7 @@ Project members:
     6-DoF robotic manipulator.
 </div>
 
-As the core component, the actuator is a (brushless DC electric) **BLDC motor** (GYEMS L5010 or L5015) in series with a 50:1 **harmonic** reducer. The other mechanical components are customized, made of aluminum alloy, carbon fiber, or 3D-printing material. 
+As the core component, the actuator is a (brushless DC electric) **BLDC motor** (GYEMS L5010 or L5015) in series with a **50:1 harmonic reducer**. The other mechanical components are customized, made of aluminum alloy, carbon fiber, or 3D-printing material. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -107,7 +107,7 @@ Regarding its electronics, we design a two-layer PCB board for **Tennsy 4.1** th
     Customized PCB board.
 </div>
 
-In fact, the robot shares the same electronics as our [bimanual cobot](https://jia-xinyu.github.io/projects/9_project/): a **Intel NUC** computer, Tennsy 4.1 microcontrollers, etc.
+In fact, the robot shares the same electronics as our [bimanual cobot](https://jia-xinyu.github.io/projects/9_project/): an **Intel NUC** computer, Tennsy 4.1 microcontrollers, etc.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -121,7 +121,7 @@ In fact, the robot shares the same electronics as our [bimanual cobot](https://j
     Electronic devices and wiring.
 </div>
 
-In addition, we develop a **real-time** software architecture where code can run in different threads under strict time constraints. Excitingly, the low-level code for the Tennsy 4.1 has been open-sourced. Please see the [repository](https://github.com/jia-xinyu/Caracal_Teensy).
+In addition, we develop a **real-time software** architecture where code can run in different threads under strict time constraints. Excitingly, the low-level code for the Tennsy 4.1 has been **open-sourced**. Please see the [repository](https://github.com/jia-xinyu/Caracal_Teensy).
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -132,7 +132,7 @@ In addition, we develop a **real-time** software architecture where code can run
     Real-time software architecture.
 </div>
 
-The robot has a hybrid **force and motion control** framework. It support compliant physical interaction, while can also follow trajectory in joint or Catersian space. As the dynamic model and force control are available, the robot can detect unexpected collisions in real time using only proprioceptive data, thus ensuring the safety of humans and itself. Furthermore, we design a finite state machine (**FSM**) to manage different robot states.
+The robot has a hybrid **force and motion control** framework. It support compliant physical interaction, while can also follow trajectory in joint space or Catersian space. As the dynamics is available, the robot can **detect unexpected collisions** using only proprioceptive data, thus ensuring the safety of humans and itself. Furthermore, we design a finite state machine (**FSM**) to manage different robot states.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -143,7 +143,7 @@ The robot has a hybrid **force and motion control** framework. It support compli
     </div>
 </div>
 <div class="caption">
-    FSM machine (left) and control framework (right).
+    FSM (left) and control framework (right).
 </div>
 
 <div class="row">
@@ -161,7 +161,7 @@ The robot has a hybrid **force and motion control** framework. It support compli
     Trajectory tracking in Catersian space.
 </div>
 
-Simulation in CoppeliaSim validates the effectiveness of the algorithm. Hardware experiments are also conducted for verification.
+Simulation in **CoppeliaSim** validates the effectiveness of the algorithm. Hardware experiments are also conducted for verification.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

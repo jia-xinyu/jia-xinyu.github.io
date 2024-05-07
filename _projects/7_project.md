@@ -8,7 +8,7 @@ category: robot
 related_publications: false
 ---
 
-I started my Ph.D. at the [NUS Biorobotics Lab](https://cde.nus.edu.sg/bme/bioroboticslab/) on Aug 3rd 2020, and focused on novel **motion planning** and **motion control** algorithms. Apart from research, I also participated in hardware and software development of several robotic platforms.
+I started my Ph.D. at the [NUS Biorobotics Lab](https://cde.nus.edu.sg/bme/bioroboticslab/) on Aug 3rd 2020, and focused on developing novel **motion planning** and **motion control** algorithms. Apart from research, I also participated in hardware and software development of several robotic platforms.
 
 In the first year, I collaborated with 4 reseach engineers to develop a **quadruped robot** from scratch. Thanks to them, I had a systematic understanding of robots with high degrees of freedom (DoFs).
 
@@ -47,7 +47,7 @@ It is a **16.5kg**, electrically actuated, torque-controlled, four-legged robot.
     Mechanical design. The figures from left to right illustrate the leg transimission, joint layout, and body structure.
 </div>
 
-There are 12 actuated joints in total. Each joint is mounted with a (brushless DC electric) **BLDC motor** (GYEMS RMD X8 Pro). The motor insides intergates a 6:1 planetary reducer, and a driver supporting 3 control modes (potision / velocity / torque).
+There are 12 actuated joints in total. Each joint is mounted with a (brushless DC electric) **BLDC motor** (GYEMS RMD X8 Pro). The motor insides intergates a **6:1 planetary reducer**, and a driver supporting 3 control modes (potision / velocity / torque).
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -108,7 +108,7 @@ We develop the locomotion controller based on the well-known [Mini Cheetah](http
     Hierarchical control framework.
 </div>
 
-The algorithm is verified in the ROS/Gazebo simulator. The videos below show 3 robot states: "stand up", "trot", and "sit down".
+The algorithm is verified in the **ROS/Gazebo** simulator. The videos below show 3 robot states: "balanced stand", "stand up", and "trot".
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
