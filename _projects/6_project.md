@@ -52,7 +52,7 @@ In spare time, I enjoy flying DJI drones on Shenzhen beaches. Look at these beau
     DJI drones: Inspire 2 and Spark.
 </div>
 
-I also took the drones to western Sichuan Province in China in May 2020 and had an impressive road trip.
+I also took the drones to western Sichuan Province in China in May 2020 and had an unforgettable road trip.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

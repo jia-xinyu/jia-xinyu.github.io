@@ -8,7 +8,13 @@ category: robot
 # giscus_comments: true
 ---
 
-In the sencond year of my Ph.D., I was responsible for the development of a 6-degree-of-freedom (DoF) robotic manipulator.
+In my second year at the NUS, I was responsible for developing a cooperative robotic manipulator. It has the following **features**:
+* 3.5kg weight
+* 1kg payload @ 0.6m full extension
+* 6 degrees of freedom (DoFs)
+* joint control modes: position/velocity/torque
+* full robot dynamic model
+* physical human-robot interation (pHRI)
 
 Project members: 
 * Mechanics: [Terry Cavan Chan](https://cde.nus.edu.sg/bme/bioroboticslab/author/terry-cavan-chan/), <u>Xinyu Jia</u>, [Haotian Guo](https://cde.nus.edu.sg/bme/bioroboticslab/author/guo-haotian/).
@@ -27,7 +33,7 @@ Project members:
     6-DoF robotic manipulator.
 </div>
 
-Each joint of the robot is driven by a motor with 50:1 reduction ratio of harmonic drive.
+As the core component, the actuator is a (brushless DC electric) **BLDC motor** (GYEMS L5010 or L5015) in series with a 50:1 **harmonic** reducer. The other mechanical components are customized, made of aluminum alloy, carbon fiber, or 3D-printing material. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -47,8 +53,10 @@ Each joint of the robot is driven by a motor with 50:1 reduction ratio of harmon
     </div>
 </div>
 <div class="caption">
-    50:1 reduction ratio of harmonic drive.
+    50:1 harmonic reducer.
 </div>
+
+The robot assembly looks so exquisite!
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -62,7 +70,7 @@ Each joint of the robot is driven by a motor with 50:1 reduction ratio of harmon
     </div>
 </div>
 <div class="caption">
-    Assembled robotic manipulator.
+    Full view.
 </div>
 
 <div class="row">
@@ -77,8 +85,10 @@ Each joint of the robot is driven by a motor with 50:1 reduction ratio of harmon
     </div>
 </div>
 <div class="caption">
-    Close-up views.
+    Close-up view.
 </div>
+
+Regarding its electronics, we design a two-layer PCB board for **Tennsy 4.1** that handles data from different devices.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -97,6 +107,8 @@ Each joint of the robot is driven by a motor with 50:1 reduction ratio of harmon
     Customized PCB board.
 </div>
 
+In fact, the robot shares the same electronics as our [bimanual cobot](https://jia-xinyu.github.io/projects/9_project/): a **Intel NUC** computer, Tennsy 4.1 microcontrollers, etc.
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/arm/ele_1.jpg" class="img-fluid rounded z-depth-1" %}
@@ -106,10 +118,10 @@ Each joint of the robot is driven by a motor with 50:1 reduction ratio of harmon
     </div>
 </div>
 <div class="caption">
-    Electronic system.
+    Electronic devices and wiring.
 </div>
 
-## Software
+In addition, we develop a **real-time** software architecture where code can run in different threads under strict time constraints. Excitingly, the low-level code for the Tennsy 4.1 has been open-sourced. Please see the [repository](https://github.com/jia-xinyu/Caracal_Teensy).
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -119,6 +131,8 @@ Each joint of the robot is driven by a motor with 50:1 reduction ratio of harmon
 <div class="caption">
     Real-time software architecture.
 </div>
+
+The robot has a hybrid **force and motion control** framework. It support compliant physical interaction, while can also follow trajectory in joint or Catersian space. As the dynamic model and force control are available, the robot can detect unexpected collisions in real time using only proprioceptive data, thus ensuring the safety of humans and itself. Furthermore, we design a finite state machine (**FSM**) to manage different robot states.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -144,10 +158,10 @@ Each joint of the robot is driven by a motor with 50:1 reduction ratio of harmon
     </div>
 </div>
 <div class="caption">
-    Simulation.
+    Trajectory tracking in Catersian space.
 </div>
 
-## Demo
+Simulation in CoppeliaSim validates the effectiveness of the algorithm. Hardware experiments are also conducted for verification.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

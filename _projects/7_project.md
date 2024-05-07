@@ -30,7 +30,7 @@ Project members:
     12-DoF quadruped robot.
 </div>
 
-It is a **16.5kg** electrically actuated robot with 4 legs. The leg link can reach **0.5m** when full extended. Most of mechanical components are customized, mainly made of aluminum alloy, carbon fiber, and 3D-printing material. 
+It is a **16.5kg**, electrically actuated, torque-controlled, four-legged robot. The leg link can reach **0.5m** when full extended. Most of mechanical components are customized, mainly made of aluminum alloy, carbon fiber, and 3D-printing material. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -78,7 +78,7 @@ The onboard computers are an Advantech **PC104** and a NVIDIA Jetson **TX2**. Th
     Electronic devices and wiring.
 </div>
 
-3 voltages are available for electronics: 24V - motor, 12V - computer, 3.3V - LED and switch. These devices communicate with each other via different protocols including **CAN** bus, **UDP** and **USB**.
+The robot is powered by a 24V 6000 mAH Li battery. 3 voltages are available for electronics: 24V - motor, 12V - computer, 3.3V - LED and switch. These devices communicate with each other via different protocols including **CAN** bus, **UDP** and **USB**.
 
 The robot's real-time software architecture allows code to run in isolated threads, which are bound to different CPUs.
 
@@ -94,9 +94,9 @@ The robot's real-time software architecture allows code to run in isolated threa
     Wiring diagram (left) and software architecture (right).
 </div>
 
-We develop the locomotion controller based on the well-known [Mini Cheetah](). The hierarchical control framework includes: 
-* Model Predictive Control (**MPC**) computes desired body position, body orientation, and foot force in a short horizon.
-* Whole-Body Control (**WBC**) prioritizes tracking tasks and computes joint position, velocity and torque command.
+We develop the locomotion controller based on the well-known [Mini Cheetah](https://github.com/mit-biomimetics/Cheetah-Software). The hierarchical control framework includes: 
+* Model predictive controller (**MPC**) computes desired body position, body orientation, and foot force in a short horizon.
+* Whole-body controller (**WBC**) prioritizes tracking tasks and computes joint position, velocity and torque command.
 * Low-level controllers process user instructions or sensor feedback for the high-level controllers. 
 
 <div class="row">
@@ -108,7 +108,7 @@ We develop the locomotion controller based on the well-known [Mini Cheetah](). T
     Hierarchical control framework.
 </div>
 
-The algorithm is first verified in ROS/Gazebo. The videos below show 3 robot states: "stand up", "trot", and "sit down".
+The algorithm is verified in the ROS/Gazebo simulator. The videos below show 3 robot states: "stand up", "trot", and "sit down".
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -136,7 +136,7 @@ Simultaneously, we conduct single-leg hardware experiments on a bench.
     Single leg test.
 </div>
 
-Now, the completed robot can't wait to run on the ground!
+The completed robot can't wait to run on the ground!
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -150,7 +150,7 @@ Now, the completed robot can't wait to run on the ground!
     Side view (left) and top view (right).
 </div>
 
-We allow the quadruped robot to trot indoors and outdoors.
+We allow the quadruped robot to trot indoors and outdoors. Agile maneuvers demonstrate the robot's good locomotion performance.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
