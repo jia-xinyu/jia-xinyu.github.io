@@ -7,7 +7,7 @@ importance: 4
 category: robot
 ---
 
-In 2023, my third year at the NUS, I participated in the development of a 18-degree-of-freedom (DoF) **quadruped mobile manipulator** robot. It consists of a 12-DoF [legged robot](https://jia-xinyu.github.io/projects/7_project/) and a 6-DoF [robotic manipulator](https://jia-xinyu.github.io/projects/8_project/).
+In 2023, my third year at the NUS, I participated in the development of a 18-degree-of-freedom (DoF) **quadruped mobile manipulator** robot. It consists of a 12-DoF [legged robot](https://jia-xinyu.github.io/projects/7_project/) and a 6-DoF [robotic manipulator](https://jia-xinyu.github.io/projects/8_project/), expected to perform mobile manipulation in complex terrain.
 
 Project members: 
 * Mechanics: [Terry Cavan Chan](https://cde.nus.edu.sg/bme/bioroboticslab/author/terry-cavan-chan/), <u>Xinyu Jia</u>.
@@ -37,7 +37,7 @@ Project members:
     Quadruped robot + Robotic manipulator.
 </div>
 
-The mechanical system has major upgrades. For example, more carbon fiber material are used for lightweighting (25kg in total); we select a more powerful motor (GYEMS RMD X8 Pro 9:1) and design a new leg tranmission structure for high payload.
+The mechanical system has major upgrades. For example, more carbon fiber material are used for lightweighting (**25kg** in total); we select a more powerful motor (GYEMS RMD X8 Pro 9:1) and design a new leg tranmission structure for high payload.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -60,7 +60,7 @@ The mechanical system has major upgrades. For example, more carbon fiber materia
     </div>
 </div>
 <div class="caption">
-    Simulation of equivalent stress and total deformation.
+    Simulations of equivalent stress and total deformation.
 </div>
 
 <div class="row">
@@ -75,7 +75,7 @@ The mechanical system has major upgrades. For example, more carbon fiber materia
     Joint connection.
 </div>
 
-The electronic system is also upgraded. The computers PC104 and NVIDIA TX2 in the [predecessor](https://jia-xinyu.github.io/projects/7_project/) are replaced by **Intel NUC** and **NVIDIA Xavier**, respectively. More importantly, the layout of the electronic devices is carefully considered to make it easier for us to maintain after experiments.
+The electronic system is also upgraded. The onboard computers PC104 and NVIDIA TX2 in the [predecessor](https://jia-xinyu.github.io/projects/7_project/) are replaced by **Intel NUC** and **NVIDIA Xavier**, respectively. The layout of the electronic devices is carefully considered to make it easier for us to maintain after experiments.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -104,7 +104,8 @@ The electronic system is also upgraded. The computers PC104 and NVIDIA TX2 in th
     Electronic system.
 </div>
 
-Currently, all hardware has been completed. A whole-body planning and control algorithm is being developed to coordinate its locomotion and manipulation. Let's wait and see.
+Currently, all hardware has been completed. 
+A whole-body planning and control algorithm is being developed to coordinate its **locomotion** and **manipulation**. Let's wait and see.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -112,7 +113,7 @@ Currently, all hardware has been completed. A whole-body planning and control al
     </div>
 </div>
 <div class="caption">
-    Robot.
+    Close-up view.
 </div>
 
 <div class="row">
