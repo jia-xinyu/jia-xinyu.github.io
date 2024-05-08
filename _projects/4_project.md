@@ -13,7 +13,7 @@ category: racecar
     </div>
 </div>
 
-In 2018, I served as a [Gspeed](https://baike.baidu.com/item/吉林大学吉速方程式车队/23156065) consultant, providing technical support for the electric race car development (Gspeed 2018-E). Therein, I was involved in the carbon-fiber-reinforced-polymer ([CFRP](https://en.wikipedia.org/wiki/Carbon-fiber_reinforced_polymer)) monocoque project as one of **initiators**.
+In 2018, I served as a [Gspeed](https://baike.baidu.com/item/吉林大学吉速方程式车队/23156065) consultant, providing technical support for the electric race car development (Gspeed 2018-E). Therein, I was involved in the carbon-fiber-reinforced-polymer ([CFRP](https://en.wikipedia.org/wiki/Carbon-fiber_reinforced_polymer)) **monocoque** project as one of initiators.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

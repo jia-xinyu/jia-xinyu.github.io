@@ -7,7 +7,9 @@ importance: 6
 category: racecar
 ---
 
-After graduation in summer 2018, I worked as a Mechanical Engineer at Shenzhen [DJI](https://www.dji.com/) Technology Co., Ltd., where I participated in hardware development for autonomous driving, including stereo cameras and autonomous driving control unit (ADCU). 
+After graduation in summer 2018, I worked as a Mechanical Engineer at Shenzhen [DJI](https://www.dji.com/) Technology Co., Ltd., where I participated in hardware development for autonomous driving, including a stereo camera and an electronic control unit (ECU). Two **patents** at DJI:
+* [WO2020198945A1](https://patents.google.com/patent/WO2020198945A1/en) / CN111225831B (vehicle sensor module)
+* [WO2022016339A1](https://patents.google.com/patent/WO2022016339A1/en) / CN113728734A (vehicle control system)
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
