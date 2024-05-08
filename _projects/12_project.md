@@ -14,7 +14,7 @@ We are developing a high-frequency model predictive controller (**MPC**) with ob
 
 **Motion Control**
 
-We have developed several **efficient** and **robust** motion controllers for robots with high degrees of freedom. Please see our publications {% cite tmech_2024 %} and {% cite icra_2024 %}. We will be delighted if you could implement them into your robots.
+We have developed several **efficient** and **robust** motion controllers for robots with high degrees of freedom. Please see our publications {% cite tmech_2024 icra_2024 %}. We will be delighted if the algorithm could be deployed in your robots.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -22,5 +22,5 @@ We have developed several **efficient** and **robust** motion controllers for ro
     </div>
 </div>
 <div class="caption">
-    Motion control.
+    Motion control algorithm (2024 ICRA).
 </div>

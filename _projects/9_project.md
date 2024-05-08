@@ -8,7 +8,7 @@ category: robot
 # redirect: https://unsplash.com
 ---
 
-Based on the previous [robotic project](https://jia-xinyu.github.io/projects/8_project/), we developed a 12-degree-of-freedom (DoF) collaborative robot (**cobot**) in 2022. It has a pair of force-controlled robotic arms, each equipped with a gripper.
+Based on the previous [robotic project](https://jia-xinyu.github.io/projects/8_project/), we developed a 12-degree-of-freedom (DoF) collaborative robot (**cobot**) in 2022. It has a pair of force-controlled robotic arms, each of which has 6 DoFs and is equipped with a robotic gripper.
 
 Project members: 
 * Mechanics: [Terry Cavan Chan](https://cde.nus.edu.sg/bme/bioroboticslab/author/terry-cavan-chan/), <u>Xinyu Jia</u>, [Haotian Guo](https://cde.nus.edu.sg/bme/bioroboticslab/author/guo-haotian/).
@@ -40,7 +40,7 @@ The robotic arm is mounted on the body with an inclination of **45°** to avoid 
     Robotic arms.
 </div>
 
-We design several sizes of grippers for different scenerios. Their fingers are underactuated and assembled with **tactile sensors**. For more information, please refer to my colleague Haotian Guo's [paper](https://ieeexplore.ieee.org/document/9793603).
+We design several sizes of grippers for different scenerios. The fingers are underactuated and assembled with **tactile sensors**. For more information, please refer to my colleague Haotian Guo's [paper](https://ieeexplore.ieee.org/document/9793603).
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

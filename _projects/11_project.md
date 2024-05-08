@@ -7,7 +7,7 @@ importance: 5
 category: robot
 ---
 
-For preliminary algorithm verification, we developed a pendulum platform in 2022. It has only one actuated joint equipped a (brushless DC electric) **BLDC motor** (GYEMS L5010) and a **50:1 harmonic reducer**. The electronics is same as in the [robotic manipulator](https://jia-xinyu.github.io/projects/8_project/).
+For preliminary algorithm verification, we developed a pendulum platform in 2022. It has only one actuated joint equipped a (brushless DC electric) **BLDC motor** (GYEMS L5010) and a **50:1 harmonic reducer**. The point mass at the tip weighs 0.565kg (overall 0.74kg).
 
 Project members: 
 * Mechanics: [Terry Cavan Chan](https://cde.nus.edu.sg/bme/bioroboticslab/author/terry-cavan-chan/), <u>Xinyu Jia</u>.
@@ -25,6 +25,7 @@ Project members:
     Pendulum plaform.
 </div>
 
+The platform can help us roughly check the actual performance of selected **motors** including power, torque or sensor accuracy.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -35,9 +36,8 @@ Project members:
     </div>
 </div>
 <div class="caption">
-    Test motor torque constant (roughly).
+    Check motor torque constant (roughly).
 </div>
-
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -51,9 +51,10 @@ Project members:
     </div>
 </div>
 <div class="caption">
-    Free-space tracking, zero gravity mode, max payload test (from left to right).
+    Free-space tracking, zero gravity mode, and max payload test (from left to right).
 </div>
 
+Furthermore, we prove our new ideas on the platform. For example, several **digital filters** are implemented for comparison ([code](https://github.com/jia-xinyu/tools)).
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -61,8 +62,10 @@ Project members:
     </div>
 </div>
 <div class="caption">
-    Actuator.
+    Comparative simulation of digital filters.
 </div>
+
+The disturbance observers, such as our Unknown System Dynamics Estimator (**USDE**), are also first validated on the pendulum and then extended to a multi-joint [robotic manipulator](https://jia-xinyu.github.io/projects/12_project/).
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -76,7 +79,7 @@ Project members:
     </div>
 </div>
 <div class="caption">
-    Step signal. PD (left) and USDE (right).
+    Step signal. PD (left) and USDE-PD (right).
 </div>
 
 <div class="row">
@@ -91,5 +94,5 @@ Project members:
     </div>
 </div>
 <div class="caption">
-    Sine signal. PD (left) and USDE (right).
+    Sine signal. PD (left) and USDE-PD (right).
 </div>

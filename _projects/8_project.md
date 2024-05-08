@@ -12,7 +12,7 @@ In my second year at the NUS, I was responsible for developing a cooperative rob
 * 3.5kg weight
 * 1kg payload @ 0.6m full extension
 * 6 degrees of freedom (DoFs)
-* joint control modes: position/velocity/torque
+* joint control modes (position/velocity/torque)
 * full robot dynamic model
 * physical human-robot interation (pHRI)
 

@@ -75,7 +75,7 @@ The mechanical system has major upgrades. For example, more carbon fiber materia
     Joint connection.
 </div>
 
-The electronic system is also upgraded. The onboard computers PC104 and NVIDIA TX2 in the [predecessor](https://jia-xinyu.github.io/projects/7_project/) are replaced by **Intel NUC** and **NVIDIA Xavier**, respectively. The layout of the electronic devices is carefully considered to make it easier for us to maintain after experiments.
+The electronic system is also upgraded. The onboard computers PC104 and NVIDIA TX2 in the [predecessor](https://jia-xinyu.github.io/projects/7_project/) are replaced by **Intel NUC** and **NVIDIA Xavier**, respectively. The layout of electronic devices is carefully considered to make it easier for us to maintain after experiments.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
