@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi, I'm Xinyu Jia (贾鑫宇 in Chinese), currently pursuing a Ph.D. in Biomedical Engineering at the [Biorobotics Lab](https://cde.nus.edu.sg/bme/bioroboticslab/) within the National University of Singapore (NUS), under the guidance of Prof. [Haoyong Yu](https://cde.nus.edu.sg/bme/bioroboticslab/author/haoyong-yu/). My research interests are **motion planning** and **motion control** of high-degree-of-freedom robots, such as robotic arms and legged robots.
+Hi, I'm Xinyu Jia (贾鑫宇 in Chinese), currently pursuing a Ph.D. in Biomedical Engineering at the [Biorobotics Lab](https://cde.nus.edu.sg/bme/bioroboticslab/) within the National University of Singapore (NUS), under the guidance of Prof. Haoyong Yu. My research interests are **motion planning** and **motion control** of high-degree-of-freedom robots, such as robotic arms and legged robots.
 
 Previously, I received my Bachelor's degree in Vehicle Engineering from [Jilin University](https://auto.jlu.edu.cn/EN/Home.htm), Changchun, China, in 2018, where I joined the [Gspeed Formula Racing Team](https://baike.baidu.com/item/吉林大学吉速方程式车队/23156065) for [Formula SAE](https://en.wikipedia.org/wiki/Formula_SAE) (2014-2018). After that, I worked as a Mechanical Engineer at Shenzhen [DJI](https://www.dji.com/) Technology Co., Ltd., where I was involved in the R&D of autonomous driving (2018-2020). 
 

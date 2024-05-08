@@ -25,7 +25,7 @@ Project members:
     Pendulum plaform.
 </div>
 
-The platform can help us roughly check the actual performance of selected **motors** including power, torque or sensor accuracy.
+The platform can help us roughly check the actual performance of selected **motors** including power, torque and sensor accuracy.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

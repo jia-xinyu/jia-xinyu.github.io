@@ -105,7 +105,7 @@ The electronic system is also upgraded. The onboard computers PC104 and NVIDIA T
 </div>
 
 Currently, all hardware has been completed. 
-A whole-body planning and control algorithm is being developed to coordinate its **locomotion** and **manipulation**. Let's wait and see.
+A whole-body planning and control algorithm is being developed to coordinate its **locomotion** and **manipulation**. Let's wait and see!
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
