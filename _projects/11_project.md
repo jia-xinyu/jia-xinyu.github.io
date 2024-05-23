@@ -65,7 +65,7 @@ Furthermore, we prove our new ideas on the platform. For example, several **digi
     Comparative simulation of digital filters.
 </div>
 
-The disturbance observers, such as our Unknown System Dynamics Estimator (**USDE**), are also first validated on the pendulum and then extended to a multi-joint [robotic manipulator](https://jia-xinyu.github.io/projects/12_project/).
+Novel disturbance observers, such as our Unknown System Dynamics Estimator (**USDE**), are also first validated on the pendulum and then deployed to a multi-joint [robotic manipulator](https://jia-xinyu.github.io/projects/12_project/).
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
