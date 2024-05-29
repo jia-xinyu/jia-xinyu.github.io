@@ -114,7 +114,7 @@ New members were joining and becoming main force of Gspeed.
     Suspension group (left). Team members on behalf of Jilin University participating in FSCC 2018 (right).
 </div>
 
-In Oct 2018, the car was transported to the Xiangyang circuit for FSCC 2018, which was attended by 66 domestic universities. After a week of competition, we won the **first championship** in Gspeed history! All awards we received are listed below:
+In Oct 2018, the car was transported to the Xiangyang circuit for [FSCC](http://www.formulastudent.com.cn/) 2018, which was attended by 66 domestic universities. After a week of competition, we won the **first championship** in Gspeed history! All awards we received are listed below:
 
 * **1st place overall** (Champion)
 * **3rd place** in Cost & Manufacturing Analysis
