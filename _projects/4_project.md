@@ -13,7 +13,7 @@ category: racecar
     </div>
 </div>
 
-In 2018, I served as a consultant for [Gspeed](https://baike.baidu.com/item/吉林大学吉速方程式车队/23156065), providing technical support for the electric race car development (Gspeed 2018-E). Until my graduation, I was involved in the carbon-fiber-reinforced-polymer ([CFRP](https://en.wikipedia.org/wiki/Carbon-fiber_reinforced_polymer)) **monocoque** project as one of initiators.
+In 2018, I served as a consultant for [Gspeed](https://baike.baidu.com/item/吉林大学吉速方程式车队/23156065), providing technical support for the electric race car development (Gspeed 2018-E). This season, I was involved in the carbon-fiber-reinforced-polymer ([CFRP](https://en.wikipedia.org/wiki/Carbon-fiber_reinforced_polymer)) **monocoque** project as one of the initiators.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -61,7 +61,7 @@ Therefore, from this season, we adpoted the CFRP monocoque which performed much 
     Carbon fiber monocoque of Gspeed 2018-E.
 </div>
 
-Undeniably, manufacturing such large and precise stuff (over **2.2m length**) was not easy at all. We had to pay much attention to every detail.
+Undeniably, manufacturing such large and precise stuff (over **2.2m length**) was not easy at all. We had to pay much attention to details.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
