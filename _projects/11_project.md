@@ -54,7 +54,7 @@ The platform allows us to roughly evaluate the actual performance of selected **
     Free-space tracking, zero gravity mode, and max payload test (from left to right).
 </div>
 
-In addition, we use the platform validate to our new ideas. For example, several **digital filters** are implemented for comparison ([code](https://github.com/jia-xinyu/tools)).
+In addition, we use the platform to validate our new ideas. For example, several **digital filters** are implemented for comparison ([code](https://github.com/jia-xinyu/tools)).
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

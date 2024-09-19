@@ -167,7 +167,7 @@ In Nov 2017, the car was transported to the Xiangyang circuit for [Formula Stude
     Gspeed 2017 on the Xiangyang circuit.
 </div>
 
-The team advisor Prof. [WANG Da](https://auto.jlu.edu.cn/info/1731/6693.htm) and I together received the award. The team put much thought into Gspeed 2017 and deserved this honor.
+The team advisor Prof. [Da WANG](https://auto.jlu.edu.cn/info/1731/6693.htm) and I together received the award. The team put much thought into Gspeed 2017 and deserved this honor.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

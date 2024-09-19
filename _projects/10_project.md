@@ -122,5 +122,5 @@ A whole-body planning and control algorithm is being developed to coordinate its
     </div>
 </div>
 <div class="caption">
-    Family photo of my robot friends during the 4-year Ph.D. journey
+    A family photo of my robot friends during my 4-year Ph.D. journey
 </div>
