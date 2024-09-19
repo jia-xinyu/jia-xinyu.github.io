@@ -37,7 +37,7 @@ Project members:
     Quadruped robot + Robotic manipulator.
 </div>
 
-The mechanical system has major upgrades. For example, more carbon fiber material are used for lightweighting (**25kg** in total); we select a more powerful motor (GYEMS RMD X8 Pro 9:1) and design a new leg tranmission structure for high payload.
+Compared to its predecessors, the mechanical system has major upgrades. For example, more carbon fiber material is used for lightweighting (**25kg** in total). We also select a more powerful motor (GYEMS RMD X8 Pro 9:1) and design a new leg tranmission structure to support a higher payload.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -75,7 +75,7 @@ The mechanical system has major upgrades. For example, more carbon fiber materia
     Joint connection.
 </div>
 
-The electronic system is also upgraded. The onboard computers PC104 and NVIDIA TX2 in the [predecessor](https://jia-xinyu.github.io/projects/7_project/) are replaced by **Intel NUC** and **NVIDIA Xavier**, respectively. The layout of electronic devices is carefully considered to make it easier for us to maintain after experiments.
+The electronic system is also upgraded. The onboard computers, PC104 and NVIDIA TX2 in the [previous version](https://jia-xinyu.github.io/projects/7_project/), are replaced by **Intel NUC** and **NVIDIA Xavier**, respectively. The layout of electronic devices is carefully designed to facilitate maintenance after experiments.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -122,5 +122,5 @@ A whole-body planning and control algorithm is being developed to coordinate its
     </div>
 </div>
 <div class="caption">
-    Family photo of my robot friends during the 4-year Ph.D.
+    Family photo of my robot friends during the 4-year Ph.D. journey
 </div>

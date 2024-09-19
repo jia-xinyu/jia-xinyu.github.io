@@ -8,7 +8,7 @@ category: robot
 related_publications: false
 ---
 
-I started my Ph.D. at the [NUS Biorobotics Lab](https://cde.nus.edu.sg/bme/bioroboticslab/) on Aug 3rd 2020, and focused on developing novel **motion planning** and **motion control** algorithms. Apart from research, I also participated in hardware and software development of several robotic platforms.
+I started my Ph.D. at the [NUS Biorobotics Lab](https://cde.nus.edu.sg/bme/bioroboticslab/) on Aug 3rd 2020, focusing on developing novel **motion planning** and **motion control** algorithms. In addition to my research, I also participated in hardware and software development of several robotic platforms.
 
 In the first year, I collaborated with 4 reseach engineers to develop a **quadruped robot** from scratch. Thanks to them, I had a systematic understanding of robots with high degrees of freedom (DoFs).
 
@@ -47,7 +47,7 @@ It is a **16.5kg**, electrically actuated, torque-controlled, four-legged robot.
     Mechanical design. The figures from left to right illustrate the leg transimission, joint layout, and body structure.
 </div>
 
-There are 12 actuated joints in total. Each joint is mounted with a (brushless DC electric) **BLDC motor** (GYEMS RMD X8 Pro). The motor insides intergates a **6:1 planetary reducer**, and a driver supporting 3 control modes (potision / velocity / torque).
+There are 12 actuated joints in total. Each joint is equipped with a (brushless DC electric) **BLDC motor** (GYEMS RMD X8 Pro). The motor intergates a **6:1 planetary reducer** and a driver that supports 3 control modes (potision / velocity / torque).
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -61,7 +61,7 @@ There are 12 actuated joints in total. Each joint is mounted with a (brushless D
     Electronic system.
 </div>
 
-The onboard computers are an Advantech **PC104** and a NVIDIA Jetson **TX2**. The former functions as a low-level motion controller, while the latter runs high-level control and learning algorithms. In terms of sensing, each joint has a **encoder**; the robot body has a 9-axis inertial measurement unit (**IMU**) (WitMotion HWT901B) for state estimation. 
+The onboard computers include an Advantech **PC104** and a NVIDIA Jetson **TX2**. The former functions as a low-level motion controller, while the latter runs high-level control and learning algorithms. In terms of sensing, each joint has a **encoder**, and the robot body has a 9-axis inertial measurement unit (**IMU**) (WitMotion HWT901B) for state estimation. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -78,7 +78,7 @@ The onboard computers are an Advantech **PC104** and a NVIDIA Jetson **TX2**. Th
     Electronic devices and wiring.
 </div>
 
-The robot is powered by a 24V 6000 mAH Li battery. 3 voltages are available for electronics: 24V - motor, 12V - computer, 3.3V - LED and switch. These devices communicate with each other via different protocols including **CAN** bus, **UDP** and **USB**.
+The robot is powered by a 24V 6000 mAH Li battery. Three voltages are available for electronics: 24V - motors, 12V - computers, 3.3V - LEDs and switches. These devices communicate with each other via different protocols including **CAN**, **UDP** and **USB**.
 
 The robot's real-time software architecture allows code to run in isolated threads, which are bound to different CPUs.
 
@@ -94,10 +94,10 @@ The robot's real-time software architecture allows code to run in isolated threa
     Wiring diagram (left) and software architecture (right).
 </div>
 
-We develop the locomotion controller based on the well-known [Mini Cheetah](https://github.com/mit-biomimetics/Cheetah-Software). The hierarchical control framework includes: 
-* Model predictive controller (**MPC**) computes desired body position, body orientation, and foot force in a short horizon.
-* Whole-body controller (**WBC**) prioritizes tracking tasks and computes joint position, velocity and torque command.
-* Low-level controllers process user instructions or sensor feedback for the high-level controllers. 
+We develop the locomotion controller based on the well-known [Mini Cheetah](https://github.com/mit-biomimetics/Cheetah-Software). The hierarchical control framework consists of: 
+* a model predictive controller (**MPC**) computing desired body position, body orientation, and foot force in a short horizon.
+* a whole-body controller (**WBC**) prioritizing tracking tasks and computing joint position, velocity and torque command.
+* several low-level modules processing user instructions or sensor feedback for the high-level controllers. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -108,7 +108,7 @@ We develop the locomotion controller based on the well-known [Mini Cheetah](http
     Hierarchical control framework.
 </div>
 
-The algorithm is verified in the **ROS/Gazebo** simulator. The videos below show 3 robot states: "balanced stand", "stand up", and "trot".
+The algorithm is verified in **ROS/Gazebo**. The videos below show three robot states: "balanced stand", "stand up", and "trot".
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -150,7 +150,7 @@ The completed robot can't wait to run on the ground!
     Side view (left) and top view (right).
 </div>
 
-We allow the quadruped robot to trot indoors and outdoors. Agile maneuvers demonstrate the robot's good locomotion performance.
+We command the quadruped robot to trot indoors and outdoors. Its agile maneuvers demonstrate good locomotion performance.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

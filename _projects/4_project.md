@@ -13,7 +13,7 @@ category: racecar
     </div>
 </div>
 
-In 2018, I served as a [Gspeed](https://baike.baidu.com/item/吉林大学吉速方程式车队/23156065) consultant, providing technical support for the electric race car development (Gspeed 2018-E). Therein, I was involved in the carbon-fiber-reinforced-polymer ([CFRP](https://en.wikipedia.org/wiki/Carbon-fiber_reinforced_polymer)) **monocoque** project as one of initiators.
+In 2018, I served as a consultant for [Gspeed](https://baike.baidu.com/item/吉林大学吉速方程式车队/23156065), providing technical support for the electric race car development (Gspeed 2018-E). Until my graduation, I was involved in the carbon-fiber-reinforced-polymer ([CFRP](https://en.wikipedia.org/wiki/Carbon-fiber_reinforced_polymer)) **monocoque** project as one of initiators.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -27,7 +27,7 @@ In 2018, I served as a [Gspeed](https://baike.baidu.com/item/吉林大学吉速�
     Gspeed 2018-E (left) and its CFRP monocoque (right).
 </div>
 
-Previous cockpits were mainly made up of steel [trusses](https://en.wikipedia.org/wiki/Truss) (4130 / 30CrMoA). They ensured the safety of our driver and connected all vehicle subsystems, so there were high requirements for stiffness, precision, weight, and vibration mode.
+Previous cockpits were mainly made up of steel [trusses](https://en.wikipedia.org/wiki/Truss) (4130 / 30CrMoA). They ensured the safety of our driver and connected all vehicle subsystems, but they struggled to meet our high requirements for stiffness, precision, weight, and vibration mode.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -44,7 +44,7 @@ Previous cockpits were mainly made up of steel [trusses](https://en.wikipedia.or
     Steel truss cockpit of Gspeed 2017-E.
 </div>
 
-From this season, we adpoted the CFRP monocoque which showed much better performance than steel trusses.
+Therefore, from this season, we adpoted the CFRP monocoque which performed much better than steel trusses.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -61,7 +61,7 @@ From this season, we adpoted the CFRP monocoque which showed much better perform
     Carbon fiber monocoque of Gspeed 2018-E.
 </div>
 
-Manufacturing such big and precise stuff (over **2.2m length**) was not easy at all. We needed to pay much attention to every detail.
+Undeniably, manufacturing such large and precise stuff (over **2.2m length**) was not easy at all. We had to pay much attention to every detail.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -82,13 +82,21 @@ I appreciated working with some optimistic guys at that time. We overcame many d
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2018e/team.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2018e/real_1.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2018e/real_1.jpg" title="Jianyuan Liu" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2018e/real_2.jpg" title="Jianyuan Liu" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2018e/real_2.jpg" title="Jiaqi Liu" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2018e/real_3.jpg" title="Jiaqi Liu" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/2018e/team_1.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/2018e/team_2.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

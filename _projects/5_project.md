@@ -13,7 +13,7 @@ category: racecar
     </div>
 </div>
 
-In 2018, I served as a [Gspeed](https://baike.baidu.com/item/吉林大学吉速方程式车队/23156065) consultant, providing technical support for the combustion race car development (Gspeed 2018-C). Thanks to all team members, we won the **championship** in [Formula Student Combustion China](http://www.formulastudent.com.cn/)(FSCC) 2018!
+In 2018, I served as a consultant for [Gspeed](https://baike.baidu.com/item/吉林大学吉速方程式车队/23156065), providing technical support for the combustion race car development (Gspeed 2018-C). Thanks to all team members, we won the **championship** in [Formula Student Combustion China](http://www.formulastudent.com.cn/) (FSCC) 2018!
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -27,7 +27,7 @@ In 2018, I served as a [Gspeed](https://baike.baidu.com/item/吉林大学吉速�
     We are the champion of FSCC 2018!
 </div>
 
-One of major upgrades this season was the new powertrain. The predecessor Honda CBR600F four-cylinder engine with a 1.65bar turbocharger was replaced by a **KTM 690 Duke** single-cylinder engine with a 300cc **supercharger**. To this end, we designed a new set of intake, exhust, boost, fuel, cooling, and electronic systems. The new powertrain has a max power of **60kW** and can maintain **82Nm** torque output within a wide speed range (**2500~6000r/min**). What incredible data!
+One of the major upgrades this season was the new powertrain. The predecessor, a Honda CBR600F four-cylinder engine with a 1.65bar turbocharger, was replaced by a **KTM 690 Duke** single-cylinder engine with a 300cc **supercharger**. For this new engine, we designed a completely new set of intake, exhust, boost, fuel, cooling, and electronic systems. The new powertrain had a max power of **60kW** and can maintain **82Nm** torque output across a wide speed range (**2500~6000r/min**). What incredible data!
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -41,7 +41,7 @@ One of major upgrades this season was the new powertrain. The predecessor Honda 
     Bench testing of our new powertrain.
 </div>
 
-In terms of the chassis, we developed a new braking system with ventilated discs. Brake cooling performance has been greatly improved.
+In terms of the chassis, we developed a new braking system with ventilated discs. Brake cooling performance was greatly improved.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -72,7 +72,7 @@ And we upgraded the [3rd-spring](https://optimumg.com/tech-tip-springs-dampers-p
     Third-spring suspension system: front view (left) and rear view (right).
 </div>
 
-During development, we took the driver into account in simulation, while continuing to conduct many real hardware experiments.
+During the development, we took into account the driver behavior in simulation, and continued to conduct many real hardware experiments.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -126,7 +126,7 @@ In Oct 2018, the car was transported to the Xiangyang circuit for [FSCC](http://
 * **1st place** in Lightweighting
 * **1st prize** in ANSYS Simulation
 
-More importantly, we were funded to represent China in [Formula Studen Germany](https://www.formulastudent.de/fsg/) (FSG) 2019!
+More importantly, we received funding to represent China in [Formula Studen Germany](https://www.formulastudent.de/fsg/) (FSG) 2019!
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -183,7 +183,7 @@ Fortunately, I witnessed this exciting moment with other retired teammates at th
     Award ceremony of FSCC 2018.
 </div>
 
-At this point, my story in Gspeed was paused. However, the Gspeed's story has been continuing. There are more advanced technologies being developed and applied to race cars, such as the carbon-fiber-reinforced-polymer ([CFRP](https://en.wikipedia.org/wiki/Carbon-fiber_reinforced_polymer)) **monocoque** of Gspeed 2019-C.
+At this point, my journey with Gspeed paused. However, Gspeed’s story continues. More advanced technologies are developed and applied to race cars, such as the carbon-fiber-reinforced-polymer ([CFRP](https://en.wikipedia.org/wiki/Carbon-fiber_reinforced_polymer)) **monocoque** in Gspeed 2019-C.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -194,7 +194,7 @@ At this point, my story in Gspeed was paused. However, the Gspeed's story has be
     Gspeed 2019-C, 2017-C, 2018-C (from left to right).
 </div>
 
-You could follow these accounts if you want to know more about Gspeed.
+You could subscribe to the following channels if you want to know more about Gspeed.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -208,5 +208,5 @@ You could follow these accounts if you want to know more about Gspeed.
     </div>
 </div>
 <div class="caption">
-    Official accounts - WeChat, Bilibili, Weibo (from left to right).
+    WeChat, Bilibili, and Weibo (from left to right).
 </div>

@@ -8,7 +8,7 @@ category: robot
 # redirect: https://unsplash.com
 ---
 
-Based on the previous [robotic project](https://jia-xinyu.github.io/projects/8_project/), we developed a 12-degree-of-freedom (DoF) collaborative robot (**cobot**) in 2022. It has a pair of force-controlled robotic arms, each of which has 6 DoFs and is equipped with a robotic gripper.
+Based on the previous [robotics project](https://jia-xinyu.github.io/projects/8_project/), we developed a 12-degree-of-freedom (DoF) collaborative robot (**cobot**) in 2022. It has a pair of force-controlled robotic arms, each of which has 6 DoFs and is equipped with a robotic gripper.
 
 Project members: 
 * Mechanics: [Terry Cavan Chan](https://cde.nus.edu.sg/bme/bioroboticslab/author/terry-cavan-chan/), <u>Xinyu Jia</u>, [Haotian Guo](https://cde.nus.edu.sg/bme/bioroboticslab/author/guo-haotian/).
@@ -54,7 +54,7 @@ We design several sizes of grippers for different scenerios. The fingers are und
     Robotic grippers.
 </div>
 
-The robot also has eyes (ZED 2 stereo camera) and a 2-DoF neck (DYNAMIXEL MX-106R motor). In fact, the robot has a similar configuration to its [predecessor](https://jia-xinyu.github.io/projects/8_project/) in terms of **electronics** and **software**.
+The robot also has eyes (ZED 2 stereo camera) and a 2-DoF neck (DYNAMIXEL MX-106R motor). It shares a similar configuration with its [predecessor](https://jia-xinyu.github.io/projects/8_project/) in terms of **electronics** and **software**.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -68,7 +68,7 @@ The robot also has eyes (ZED 2 stereo camera) and a 2-DoF neck (DYNAMIXEL MX-106
     Bimanual collaborative robot.
 </div>
 
-We validate the control algorithm in **CoppeliaSim** simulation and on real hardware. More demo videos are in preparation.
+We validate the control algorithm in **CoppeliaSim** and on real hardware. More demo videos are in preparation.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">

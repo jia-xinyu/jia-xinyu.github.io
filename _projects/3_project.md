@@ -42,7 +42,7 @@ In 2017, I served as the **technical leader** of the [Gspeed Formula Racing Team
     Powertrain, aerodynamics, and cockpit.
 </div>
 
-Inspired by Formula One (F1), we introduced the [3rd-spring](https://optimumg.com/tech-tip-springs-dampers-part-three/) technology in Gspeed 2017. It decoupled the chassis's longitudinal and lateral movements, improving the handling stability in the two directions, which was validated in Adams/Car simulations.
+Inspired by Formula One (F1), we introduced the [3rd-spring](https://optimumg.com/tech-tip-springs-dampers-part-three/) technology in Gspeed 2017. It decoupled the chassis's longitudinal and lateral movements to improve handling stability in the two directions, which was validated in Adams/Car simulations.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -56,7 +56,7 @@ Inspired by Formula One (F1), we introduced the [3rd-spring](https://optimumg.co
     Simulations of the 3rd-spring chassis: bounce, roll, steering ratio, etc.
 </div>
 
-The maneuver of the full vehicle under transient and steady conditions was studied too. The virtual prototype was verified in some standard experiments, such as the [skidpad](https://en.wikipedia.org/wiki/Skidpad), and it was also "driven" on the 1:1 Xiangyang circuit!
+The full vehicle maneuver under both transient and steady conditions was also studied. The perfomance of the new virtual prototype was validated through standard tests, such as the [skidpad](https://en.wikipedia.org/wiki/Skidpad). Additionally, we "drove" it on the Xiangyang circuit in simulation.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -70,7 +70,7 @@ The maneuver of the full vehicle under transient and steady conditions was studi
     Full vehicle simulation in Adams/Car software.
 </div>
 
-In addition to rich simulations, we invested much effort in real hardware experiments and obtained a lot of valuable data.
+In addition to extensive simulations, we invested much effort in real hardware experiments and obtained a lot of valuable data.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -84,7 +84,7 @@ In addition to rich simulations, we invested much effort in real hardware experi
     </div>
 </div>
 <div class="caption">
-    Component experiments on dampers, tires, springs, and wheel hubs.
+    Component-level experiments on dampers, tires, springs, and wheel hubs.
 </div>
 
 <div class="row">
@@ -167,7 +167,7 @@ In Nov 2017, the car was transported to the Xiangyang circuit for [Formula Stude
     Gspeed 2017 on the Xiangyang circuit.
 </div>
 
-The advisor Prof. [WANG Da](https://auto.jlu.edu.cn/info/1731/6693.htm) and I together received the award. The team put much thought into Gspeed 2017 and deserved this honor.
+The team advisor Prof. [WANG Da](https://auto.jlu.edu.cn/info/1731/6693.htm) and I together received the award. The team put much thought into Gspeed 2017 and deserved this honor.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

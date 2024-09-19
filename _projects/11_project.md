@@ -25,7 +25,7 @@ Project members:
     Pendulum plaform.
 </div>
 
-The platform can help us roughly check the actual performance of selected **motors** including power, torque and sensor accuracy.
+The platform allows us to roughly evaluate the actual performance of selected **motors**, including power, torque, and sensor accuracy.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -54,7 +54,7 @@ The platform can help us roughly check the actual performance of selected **moto
     Free-space tracking, zero gravity mode, and max payload test (from left to right).
 </div>
 
-Furthermore, we prove our new ideas on the platform. For example, several **digital filters** are implemented for comparison ([code](https://github.com/jia-xinyu/tools)).
+In addition, we use the platform validate to our new ideas. For example, several **digital filters** are implemented for comparison ([code](https://github.com/jia-xinyu/tools)).
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -65,7 +65,7 @@ Furthermore, we prove our new ideas on the platform. For example, several **digi
     Comparative simulation of digital filters.
 </div>
 
-Novel disturbance observers, such as our Unknown System Dynamics Estimator (**USDE**), are also first validated on the pendulum and then deployed to a multi-joint [robotic manipulator](https://jia-xinyu.github.io/projects/12_project/).
+Novel disturbance observers, such as our Unknown System Dynamics Estimator (**USDE**), are also first validated on the pendulum and then deployed on a multi-joint [robotic manipulator](https://jia-xinyu.github.io/projects/12_project/).
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

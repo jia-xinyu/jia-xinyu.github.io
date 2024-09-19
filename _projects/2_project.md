@@ -27,7 +27,7 @@ In 2016, I was promoted to the suspension group leader and was responsible for d
     Gspeed 2016 (left) and its suspension system (right).
 </div>
 
-We modeled and simulated a virtual prototype of the suspension system in Adams/Car software. It was expected to have excellent **handling stability** by modifying the kinodynamic characteristics of virtual components such as springs, dampers, or links. After continuous optimization, the layout of the new suspension (i.e., hardpoints) was basically determined.
+We modeled and simulated a virtual prototype of the suspension system in Adams/Car software. It was expected to have excellent **handling stability** by optimizing the kinodynamic characteristics of virtual components such as springs, dampers, or links. After considering the effects on each assembly, the new suspension layout (i.e., hardpoints) was essentially finalized.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -75,7 +75,7 @@ How exquisite were these mechanical parts in the real world!
     Rocker arm (left) and wheel hub (rigth) of Gspeed 2016.
 </div>
 
-During development, we also conducted a series of component experiments to verify their actual performance. For example, we used DP460 adhesive to attach carbon fiber wishones to aluminum joints. In failure testing, the bonded interface was not destroyed until the tensile force reached an astonishing **36.83kN**!
+During development, we also conducted a series of component experiments to verify their actual performance. For example, we used the DP460 adhesive to attach carbon fiber wishones to aluminum joints. In failure tests, the bonded interface was not destroyed until the tensile force reached an astonishing **36.83kN**!
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -118,7 +118,7 @@ The suspension was completed and assembled with other systems. We were proud of 
     Gspeed 2016 and its customized trailer.
 </div>
 
-In addition to gaining more expertise, I also learned how to manage a group of R&D staff this year.
+In addition to gaining more expertise, I also learned how to manage a group of R&D staff (**9 people**) this year.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
