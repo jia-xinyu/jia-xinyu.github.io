@@ -17,8 +17,8 @@ In my second year at the NUS, I was responsible for developing a cooperative rob
 * physical human-robot interaction (pHRI)
 
 Project members: 
-* Mechanics: [Terry Cavan Chan](https://cde.nus.edu.sg/bme/bioroboticslab/author/terry-cavan-chan/), <u>Xinyu Jia</u>, [Haotian Guo](https://cde.nus.edu.sg/bme/bioroboticslab/author/guo-haotian/).
-* Electronics: <u>Xinyu Jia</u>, [Low Chang Hong](https://cde.nus.edu.sg/bme/bioroboticslab/author/low-chang-hong/).
+* Mechanics: Terry Cavan Chan, <u>Xinyu Jia</u>, Haotian Guo.
+* Electronics: <u>Xinyu Jia</u>, Low Chang Hong.
 * Software & Algorithm: <u>Xinyu Jia</u>.
 
 <div class="row">

@@ -10,8 +10,8 @@ category: robot
 For preliminary algorithm verification, we developed a pendulum platform in 2022. It has only one actuated joint equipped a (brushless DC electric) **BLDC motor** (GYEMS L5010) and a **50:1 harmonic reducer**. The point mass at the tip weighs 0.565kg (overall 0.74kg).
 
 Project members: 
-* Mechanics: [Terry Cavan Chan](https://cde.nus.edu.sg/bme/bioroboticslab/author/terry-cavan-chan/), <u>Xinyu Jia</u>.
-* Electronics / Software / Algorithm: <u>Xinyu Jia</u>.
+* Mechanics: Terry Cavan Chan, <u>Xinyu Jia</u>.
+* Electronics & Software & Algorithm: <u>Xinyu Jia</u>.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

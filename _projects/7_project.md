@@ -8,15 +8,15 @@ category: robot
 related_publications: false
 ---
 
-I started my Ph.D. at the [NUS Biorobotics Lab](https://cde.nus.edu.sg/bme/bioroboticslab/) on Aug 3rd 2020, focusing on developing novel **motion planning** and **motion control** algorithms. In addition to my research, I also participated in hardware and software development of several robotic platforms.
+I started my Ph.D. at the NUS Biorobotics Lab on Aug 3rd 2020, focusing on developing novel **motion planning** and **motion control** algorithms. In addition to my research, I also participated in hardware and software development of several robotic platforms.
 
 In the first year, I collaborated with 4 reseach engineers to develop a **quadruped robot** from scratch. Thanks to them, I had a systematic understanding of robots with high degrees of freedom (DoFs).
 
 Project members:
-* Mechanical Engineers: [Shounak Bhattacharya](https://sites.google.com/view/shounakoffice/home), <u>Xinyu Jia</u>.
-* Electronic Engineers: <u>Xinyu Jia</u>, [Sumantra Sharma](https://cde.nus.edu.sg/bme/bioroboticslab/author/sumantra-sharma/), [Low Chang Hong](https://cde.nus.edu.sg/bme/bioroboticslab/author/low-chang-hong/).
-* Software Engineers: <u>Xinyu Jia</u>, [Sumantra Sharma](https://cde.nus.edu.sg/bme/bioroboticslab/author/sumantra-sharma/), [Low Chang Hong](https://cde.nus.edu.sg/bme/bioroboticslab/author/low-chang-hong/).
-* Algorithm Engineers: <u>Xinyu Jia</u>, [Hari Prasanth Palanivelu](https://cde.nus.edu.sg/bme/bioroboticslab/author/hari-prasanth-palanivelu/).
+* Mechanical Engineers: Shounak Bhattacharya, <u>Xinyu Jia</u>.
+* Electronic Engineers: <u>Xinyu Jia</u>, Sumantra Sharma, Low Chang Hong.
+* Software Engineers: <u>Xinyu Jia</u>, Sumantra Sharma, Low Chang Hong.
+* Algorithm Engineers: <u>Xinyu Jia</u>, Hari Prasanth Palanivelu.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

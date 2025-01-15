@@ -11,8 +11,8 @@ category: robot
 Based on the previous [robotics project](https://jia-xinyu.github.io/projects/8_project/), we developed a 12-degree-of-freedom (DoF) collaborative robot (**cobot**) in 2022. It has a pair of force-controlled robotic arms, each of which has 6 DoFs and is equipped with a robotic gripper.
 
 Project members: 
-* Mechanics: [Terry Cavan Chan](https://cde.nus.edu.sg/bme/bioroboticslab/author/terry-cavan-chan/), <u>Xinyu Jia</u>, [Haotian Guo](https://cde.nus.edu.sg/bme/bioroboticslab/author/guo-haotian/).
-* Electronics / Software / Algorithm: <u>Xinyu Jia</u>.
+* Mechanics: Terry Cavan Chan, <u>Xinyu Jia</u>, Haotian Guo.
+* Electronics & Software & Algorithm: <u>Xinyu Jia</u>.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

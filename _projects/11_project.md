@@ -10,8 +10,8 @@ category: robot
 In 2023, my third year at the NUS, I participated in the development of a 18-degree-of-freedom (DoF) **quadruped mobile manipulator** robot. It consists of a 12-DoF [legged robot](https://jia-xinyu.github.io/projects/7_project/) and a 6-DoF [robotic manipulator](https://jia-xinyu.github.io/projects/8_project/), expected to perform mobile manipulation in complex terrain.
 
 Project members: 
-* Mechanics: [Terry Cavan Chan](https://cde.nus.edu.sg/bme/bioroboticslab/author/terry-cavan-chan/), <u>Xinyu Jia</u>.
-* Electronics / Software / Algorithm: <u>Xinyu Jia</u>.
+* Mechanics: Terry Cavan Chan, <u>Xinyu Jia</u>.
+* Electronics & Software & Algorithm: <u>Xinyu Jia</u>.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
