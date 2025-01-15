@@ -9,7 +9,7 @@ category: racecar
 
 I was admitted to Jilin University on Sep 1st 2014, majoring in Vehicle Engineering (top 3 in China).
 
-On **Dec 14th 2014**, I received an offer from the [Gspeed Formula Racing Team](https://baike.baidu.com/item/吉林大学吉速方程式车队/23156065) (Gspeed) and became a member of suspension group. From this moment, I was inseparable from extreme sports and mechatronics.
+On **Dec 14th 2014**, I received an offer from the [Gspeed Formula Racing Team](https://space.bilibili.com/403011009?spm_id_from=333.337.0.0) (Gspeed) and became a member of suspension group. From this moment, I was inseparable from extreme sports and mechatronics.
 
 <!-- <iframe src="//player.bilibili.com/player.html?aid=44477551&bvid=BV1gb411a7Xz&cid=77870491&p=1"
         style="width: 992px; height: 558px; display: block; margin: 0 auto;" 

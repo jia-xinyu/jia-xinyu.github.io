@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I gave a talk at [TechBeat](https://www.techbeat.net/talk-info?id=879)
+I gave a talk at [TechBeat](https://www.techbeat.net/talk-info?id=879).

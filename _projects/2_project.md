@@ -13,7 +13,7 @@ category: racecar
     </div>
 </div>
 
-In 2016, I was promoted to the suspension group leader and was responsible for developing the [Gspeed](https://baike.baidu.com/item/吉林大学吉速方程式车队/23156065) **suspension system**.
+In 2016, I was promoted to the suspension group leader and was responsible for developing the [Gspeed](https://space.bilibili.com/403011009?spm_id_from=333.337.0.0) **suspension system**.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

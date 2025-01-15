@@ -13,7 +13,7 @@ category: racecar
     </div>
 </div>
 
-In 2018, I served as a consultant for [Gspeed](https://baike.baidu.com/item/吉林大学吉速方程式车队/23156065), providing technical support for the combustion race car development (Gspeed 2018-C). Thanks to all team members, we won the **championship** in [Formula Student Combustion China](http://www.formulastudent.com.cn/) (FSCC) 2018!
+In 2018, I served as a consultant for [Gspeed](https://space.bilibili.com/403011009?spm_id_from=333.337.0.0), providing technical support for the combustion race car development (Gspeed 2018-C). Thanks to all team members, we won the **championship** in [Formula Student Combustion China](http://www.formulastudent.com.cn/) (FSCC) 2018!
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

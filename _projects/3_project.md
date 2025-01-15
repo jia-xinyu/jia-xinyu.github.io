@@ -13,7 +13,7 @@ category: racecar
     </div>
 </div>
 
-In 2017, I served as the **technical leader** of the [Gspeed Formula Racing Team](https://baike.baidu.com/item/吉林大学吉速方程式车队/23156065) (Gspeed). Meanwhile, I was responsible for developing the entire **chassis** of Gspeed 2017, including suspension, steering, braking, and transmission systems.
+In 2017, I served as the **technical leader** of the [Gspeed Formula Racing Team](https://space.bilibili.com/403011009?spm_id_from=333.337.0.0) (Gspeed). Meanwhile, I was responsible for developing the entire **chassis** of Gspeed 2017, including suspension, steering, braking, and transmission systems.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
