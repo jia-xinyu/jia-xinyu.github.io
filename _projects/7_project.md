@@ -8,7 +8,7 @@ category: robot
 related_publications: false
 ---
 
-I started my Ph.D. at the NUS Biorobotics Lab on Aug 3rd 2020, focusing on developing novel **motion planning** and **motion control** algorithms. In addition to my research, I also participated in hardware and software development of several robotic platforms.
+I started my Ph.D. at the [NUS Biorobotics Lab](https://cde.nus.edu.sg/bme/bioroboticslab/) on Aug 3rd 2020, focusing on developing novel **motion planning** and **motion control** algorithms. In addition to my research, I also participated in hardware and software development of several robotic platforms.
 
 In the first year, I collaborated with 4 reseach engineers to develop a **quadruped robot** from scratch. Thanks to them, I had a systematic understanding of robots with high degrees of freedom (DoFs).
 
