@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Gspeed 2018-C
+title: Gspeed 2018C
 description: Technical support; National champion of FSCC 2018
 img: assets/img/gspeed_2018c.jpg
-importance: 5
+importance: 2
 category: racecar
 ---
 

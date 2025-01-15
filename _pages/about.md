@@ -19,9 +19,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi, I'm Xinyu Jia (贾鑫宇 in Chinese), currently pursuing a Ph.D. in Biomedical Engineering at the [Biorobotics Lab](https://cde.nus.edu.sg/bme/bioroboticslab/) within the National University of Singapore (NUS), under the guidance of Prof. Haoyong Yu. My research focuses on **motion planning** and **motion control** of high-degree-of-freedom robots, such as robotic arms and legged robots.
+Hi, I'm Xinyu Jia (贾鑫宇 in Chinese), currently pursuing a Ph.D. at the [Biorobotics Lab](https://cde.nus.edu.sg/bme/bioroboticslab/) within the National University of Singapore (NUS), guided by Assoc. Prof. Haoyong Yu. My doctoral research focuses on **motion planning** and **motion control** of high-degree-of-freedom robots, such as robotic arms and legged robots. Now, I am integrating robot perception with planning and control.
 
-Previously, I received my Bachelor's degree in Vehicle Engineering from [Jilin University](https://auto.jlu.edu.cn/EN/Home.htm), Changchun, China, in 2018, where I joined the [Gspeed Formula Racing Team](https://baike.baidu.com/item/吉林大学吉速方程式车队/23156065) for [Formula SAE](https://en.wikipedia.org/wiki/Formula_SAE) (2014-2018). After that, I worked as a Mechanical Engineer at Shenzhen [DJI](https://www.dji.com/) Technology Co., Ltd., where I was involved in the R&D of autonomous driving (2018-2020). 
+Previously, I received my Bachelor's degree in Vehicle Engineering from [Jilin University](https://auto.jlu.edu.cn/EN/Home.htm), Changchun, China, in 2018, where I joined the [Gspeed Formula Racing Team](https://space.bilibili.com/403011009?spm_id_from=333.337.0.0) for [Formula SAE](https://en.wikipedia.org/wiki/Formula_SAE) (2014-2018). After that, I worked as a Mechanical Engineer at Shenzhen [DJI](https://www.dji.com/) Technology Co., Ltd., where I was involved in the R&D of autonomous driving (2018-2020). 
 
 I'm a tech enthusiast in the realms of racecars, robotics, and rocketry. Some of my projects can be found [here](https://jia-xinyu.github.io/projects/). I thrive on collaborating with talented guys to develop innovative products. Welcome to discuss with me about **algorithms**, **software**, **electronics**, **mechanics**, etc.!
 

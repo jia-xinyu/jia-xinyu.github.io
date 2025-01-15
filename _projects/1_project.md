@@ -3,7 +3,7 @@ layout: page
 title: Gspeed 2015
 description: FSAE upright structure; Second prize of FSC 2015
 img: assets/img/gspeed_2015.jpg
-importance: 1
+importance: 6
 category: racecar
 ---
 

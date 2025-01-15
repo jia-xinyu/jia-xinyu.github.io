@@ -3,7 +3,7 @@ layout: page
 title: Robotic Manipulator
 description: Hardware and software of a 6-DoF robotic arm (2022)
 img: assets/img/arm_cover.png
-importance: 2
+importance: 5
 category: robot
 # giscus_comments: true
 ---
@@ -14,7 +14,7 @@ In my second year at the NUS, I was responsible for developing a cooperative rob
 * 6 degrees of freedom (DoFs)
 * position/velocity/torque control modes
 * full robot dynamic model
-* physical human-robot interation (pHRI)
+* physical human-robot interaction (pHRI)
 
 Project members: 
 * Mechanics: [Terry Cavan Chan](https://cde.nus.edu.sg/bme/bioroboticslab/author/terry-cavan-chan/), <u>Xinyu Jia</u>, [Haotian Guo](https://cde.nus.edu.sg/bme/bioroboticslab/author/guo-haotian/).
@@ -107,7 +107,7 @@ Regarding its electronics, we design a two-layer PCB board based on **Tennsy 4.1
     Customized PCB board.
 </div>
 
-The robot shares the same electronics as our [bimanual cobot](https://jia-xinyu.github.io/projects/9_project/): an **Intel NUC** computer, Tennsy 4.1 microcontrollers, etc.
+The robot shares the same electronics as our [bimanual cobot](https://jia-xinyu.github.io/projects/10_project/): an **Intel NUC** computer, Tennsy 4.1 microcontrollers, etc.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

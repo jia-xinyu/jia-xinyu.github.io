@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Gspeed 2018-E
+title: Gspeed 2018E
 description: FASE CFRP monocoque; First prize of FSEC 2018
 img: assets/img/gspeed_2018e.jpg
-importance: 4
+importance: 3
 category: racecar
 ---
 
