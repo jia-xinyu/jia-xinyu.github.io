@@ -4,7 +4,7 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 2
-# cv_pdf: CV_Xinyu_Jia_EN.pdf
+# cv_pdf: cv_Xinyu_Jia.pdf
 # toc:
 #   sidebar: left
 ---
