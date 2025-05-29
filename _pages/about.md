@@ -21,7 +21,7 @@ social: true # includes social icons at the bottom of the page
 
 Hi, I'm Xinyu Jia (贾鑫宇 in Chinese), a final-year Ph.D. student at Biorobotics Lab within the National University of Singapore (NUS), guided by Assoc. Prof. [Haoyong Yu](https://scholar.google.com/citations?user=saM1HdsAAAAJ&hl=en). My doctoral research focused on **motion planning and control** of high-degree-of-freedom robots, e.g., robotic arms and legged robots. Now, I am integrating perception with planning and control. 
 
-Previously, I received my Bachelor's degree in Vehicle Engineering from [Jilin University](https://auto.jlu.edu.cn/EN/Home.htm), Changchun, China, in 2018, where I joined the [Gspeed Formula Racing Team](https://space.bilibili.com/403011009?spm_id_from=333.337.0.0) for [Formula SAE](https://en.wikipedia.org/wiki/Formula_SAE) (2014-2018). After that, I worked at Shenzhen [DJI](https://www.dji.com/) Technology Co., Ltd., participating in the R&D of autonomous driving (2018-2020). 
+Previously, I received my Bachelor's degree in Vehicle Engineering from [Jilin University](https://auto.jlu.edu.cn/EN/Home.htm) in 2018, where I joined the [Gspeed Formula Racing Team](https://space.bilibili.com/403011009?spm_id_from=333.337.0.0) for [Formula SAE](https://en.wikipedia.org/wiki/Formula_SAE) (2014-2018). After that, I joined [DJI Automotive](https://www.zyt.com/en) and participated in the R&D of autonomous driving (2018-2020). 
 
 I'm a tech enthusiast in the realms of racecars, robotics, and rocketry. Some of my projects can be found [here](https://jia-xinyu.github.io/projects/). I thrive on collaborating with talented guys to develop innovative products. Welcome to discuss with me about **algorithms**, **software**, **electronics**, **mechanics**, etc.!
 

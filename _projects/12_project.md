@@ -10,7 +10,7 @@ related_publications: true
 
 **Motion Planning**
 
-We developed several **high-frequency** model predictive controllers for obstacle avoidance and robot-environment interaction. For more details, see these publications {% cite ral_2025 icra_2025 %}.
+We developed several **high-frequency** online trajectory planners for obstacle avoidance and/or robot-environment interaction. They are mainly based on model predictive control (MPC). For more details, see these publications {% cite ral_2025 icra_2025 %}.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
